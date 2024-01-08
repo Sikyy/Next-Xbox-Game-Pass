@@ -178,6 +178,11 @@ links_settings:
 
 links:
   Siky's Blog: https://siky.me
+  Xbox-List (1/5): /2024/01/07/xbox1/
+  Xbox-List (2/5): /2024/01/07/xbox2/
+  Xbox-List (3/5): /2024/01/07/xbox3/
+  Xbox-List (4/5): /2024/01/07/xbox4/
+  Xbox-List (5/5): /2024/01/07/xbox5/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).
@@ -299,7 +304,7 @@ post_edit:
 
 # Show previous post and next post in post footer if exists
 # Available values: left | right | false
-post_navigation: left
+post_navigation: right
 
 
 # ---------------------------------------------------------------

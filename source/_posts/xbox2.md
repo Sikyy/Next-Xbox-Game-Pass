@@ -1,5 +1,5 @@
 ---
-title: Xbox-Game-Pass-List
+title: Xbox-Game-Pass-List  （2/5）
 date: 2024-01-07
 ---
 {% raw %}
@@ -102,15 +102,20 @@ date: 2024-01-07
     padding: 0px;
   }
 </style>
+
+{% endraw %}
+
+<span style="display:block;text-align:center;">以下为今日XGP会员商店游戏展示</span>
+**当前游戏共** **<u>458</u>** 部
+
+<div class="card"></div>
+
+{% raw %}
 <script>
-    // 从后端获取 JSON 数据的 URL
     document.addEventListener('DOMContentLoaded', () => {
     const jsonDataUrl = '/data/game.json';
-
-    // 获取游戏卡片容器
     const cardContainer = document.querySelector('.card');
 
-    // 获取 JSON 数据并渲染
     fetch(jsonDataUrl)
         .then(response => {
             if (!response.ok) {
@@ -119,8 +124,24 @@ date: 2024-01-07
             return response.json();
         })
         .then(data => {
+            // 分页显示，假设每页显示100个
+            const itemsPerPage = 100;
+            const totalItems = data.length;
+
+            // 计算总页数
+            const totalPages = Math.ceil(totalItems / itemsPerPage);
+
+            // 模拟当前页面
+            const currentPage = 2;
+
+            // 计算起始和结束位置
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = Math.min(currentPage * itemsPerPage, totalItems);
+
+            // 获取当前页面的数据
+            const dataToRender = data.slice(startIndex, endIndex);
             // 遍历数据，为每个对象调用 renderCard 函数
-            data.forEach(item => {
+            dataToRender.forEach(item => {
                 renderCard(item);
             });
         })
@@ -128,13 +149,16 @@ date: 2024-01-07
             console.error('Error fetching JSON:', error);
         });
 
+
+
     // 生成 HTML 片段的函数
     function renderCard(jsonData) {
             const cardHTML = `
                 <div style="clear: both;"></div>
                 <div style="float:left">
-                    <a class="fancybox fancybox.image" href="${jsonData.images.Poster[0]}" itemscope="" itemtype="http://schema.org/ImageObject" itemprop="url" data-fancybox="default" rel="default">
-                    <img width="180px" src="${jsonData.images.Poster[0]}" referrerpolicy="no-referrer">
+                    <a class="fancybox fancybox.image" href="${jsonData.images.Poster[0]+"?w=180"}" itemscope="" itemtype="http://schema.org/ImageObject" itemprop="url" data-fancybox="default" rel="default">
+                    <img width="180px" src="${jsonData.images.Poster[0]+"?w=180"}" referrerpolicy="no-referrer">
+                    </a>
                 </a>
                 </div>
                 <div>
@@ -143,7 +167,7 @@ date: 2024-01-07
                             <tbody>
                                 <tr>
                                     <td class="title_main_r" colspan="2" rowspan="2">
-                                        <p class="title_cn_r">${jsonData.ProductTitle}</p>
+                                        <p class="title_cn_r">${jsonData.productTitle}</p>
                                     </td>
                                     <td class="type_a_r">游戏类型</td>
                                 </tr>
@@ -177,10 +201,4 @@ date: 2024-01-07
 })
 
 </script>
-
 {% endraw %}
-
-<span style="display:block;text-align:center;">以下为今日XGP会员商店游戏展示</span>
-**当前游戏共** **<u>458</u>** 部
-
-<div class="card"></div>
