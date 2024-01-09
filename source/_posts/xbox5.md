@@ -84,7 +84,7 @@ date: 2024-01-07
     padding-left: 5px;
   }
   .cast_r {
-    width: 190px;
+    width: 500px;
     text-align: left;
     vertical-align: top;
     font-size: 16px;
@@ -92,6 +92,12 @@ date: 2024-01-07
     padding: 0px;
     padding-top: 5px;
     padding-left: 0px;
+    max-height: 1000px; /* 设置最大高度 */
+    overflow: hidden; /* 隐藏溢出部分 */
+    text-overflow: ellipsis; /* 显示省略号 */
+    display: -webkit-box;
+    -webkit-line-clamp: 10; /* 显示的行数 */
+    -webkit-box-orient: vertical;
   }
   .link_a_r {
     width: 100px;
@@ -183,7 +189,7 @@ date: 2024-01-07
                                         <span style="line-height: 2;">售价: ${jsonData.pricing.ListPrice} ${jsonData.pricing.currencyCode}</span><br>
                                     </td>
                                     <td rowspan="2" class="cast_r">
-                                        太长了先不写了
+                                        ${jsonData.productDescription}
                                     </td>
                                     <td class="link_a_r">
                                         <a href="${jsonData.storePage}" target="_blank">商店页面</a><br>
