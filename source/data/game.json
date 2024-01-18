@@ -734,9 +734,9 @@
     "userRating": 0.92,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 219.6,
+      "ListPrice": 549,
       "MSRP": 549,
-      "WholesalePrice": 153.72
+      "WholesalePrice": 384.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store//9NLB6V0GNC9P"
   },
@@ -837,9 +837,9 @@
     "userRating": 0.68,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 117.25,
+      "ListPrice": 469,
       "MSRP": 469,
-      "WholesalePrice": 82.07
+      "WholesalePrice": 328.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/6/9PBNGCVBGML0"
   },
@@ -940,9 +940,9 @@
     "userRating": 0.48,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 82.35,
+      "ListPrice": 549,
       "MSRP": 549,
-      "WholesalePrice": 57.64
+      "WholesalePrice": 384.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store//9PP837L3Q75D"
   },
@@ -1275,16 +1275,16 @@
         "https://store-images.s-microsoft.com/image/apps.17640.14488339386131194.84ca8b8a-582e-4d34-904e-8f1e60f71000.63239bc9-964b-40f8-af8d-c06d5baf31f7"
       ],
       "Screenshot": [
-        "https://store-images.s-microsoft.com/image/apps.63017.13698916371317088.fc73f0bf-8242-4a61-8d84-884aea58eb81.e766c20e-2ebf-4aa7-afa9-926cfe4cad23",
-        "https://store-images.s-microsoft.com/image/apps.48703.13698916371317088.fc73f0bf-8242-4a61-8d84-884aea58eb81.b5af793e-e19a-4a2c-bb1f-0570cc276a23",
-        "https://store-images.s-microsoft.com/image/apps.32135.13698916371317088.fc73f0bf-8242-4a61-8d84-884aea58eb81.312ad5f5-6d82-44c0-8c3a-326c1dc12739",
-        "https://store-images.s-microsoft.com/image/apps.15524.13698916371317088.dfbf7618-53ed-4e3e-83cb-d6d12f822f4c.d71a3e1c-acc0-4c37-a6a6-c6040dfb60a9",
-        "https://store-images.s-microsoft.com/image/apps.33120.13698916371317088.dfbf7618-53ed-4e3e-83cb-d6d12f822f4c.6377739c-d9e3-4ffd-9243-6eaab400656f",
-        "https://store-images.s-microsoft.com/image/apps.53472.13698916371317088.dfbf7618-53ed-4e3e-83cb-d6d12f822f4c.d0682711-b958-4b0a-ab64-49c6e45ee661",
-        "https://store-images.s-microsoft.com/image/apps.49600.13698916371317088.dfbf7618-53ed-4e3e-83cb-d6d12f822f4c.6e5eef99-6a44-409f-85b8-c76f4a1d4500",
-        "https://store-images.s-microsoft.com/image/apps.54692.13698916371317088.dfbf7618-53ed-4e3e-83cb-d6d12f822f4c.8fc8104e-77ee-4ab4-a670-e5f4ec0dd573",
-        "https://store-images.s-microsoft.com/image/apps.43400.13698916371317088.dfbf7618-53ed-4e3e-83cb-d6d12f822f4c.1758b221-f949-48ce-b899-fa681fd8d6ab",
-        "https://store-images.s-microsoft.com/image/apps.17596.13698916371317088.dfbf7618-53ed-4e3e-83cb-d6d12f822f4c.5481e067-2416-419c-a6ad-cdd810ba4e62"
+        "https://store-images.s-microsoft.com/image/apps.63017.14488339386131194.8bc5d978-7a06-47eb-8c51-ddc2799fc01e.d7d18fab-077a-4d41-ad16-3c0a9883428b",
+        "https://store-images.s-microsoft.com/image/apps.48703.14488339386131194.8bc5d978-7a06-47eb-8c51-ddc2799fc01e.07e6a5f6-b0e7-47aa-a06e-c67c6dea578f",
+        "https://store-images.s-microsoft.com/image/apps.32135.14488339386131194.8bc5d978-7a06-47eb-8c51-ddc2799fc01e.cf25ab6b-03c2-4d7a-b79b-3d52c8d91d50",
+        "https://store-images.s-microsoft.com/image/apps.15524.14488339386131194.84ca8b8a-582e-4d34-904e-8f1e60f71000.0a2cdcbe-8fdc-47a5-92ec-469fa5b76c3e",
+        "https://store-images.s-microsoft.com/image/apps.33120.14488339386131194.84ca8b8a-582e-4d34-904e-8f1e60f71000.f004f5f1-9ce5-4553-bd5f-19eecb6a8969",
+        "https://store-images.s-microsoft.com/image/apps.53472.14488339386131194.84ca8b8a-582e-4d34-904e-8f1e60f71000.0d242140-d62b-40c1-8fc5-7ee98bed7cd3",
+        "https://store-images.s-microsoft.com/image/apps.49600.14488339386131194.84ca8b8a-582e-4d34-904e-8f1e60f71000.978bdc84-e1a2-4d58-8772-0f30c8836639",
+        "https://store-images.s-microsoft.com/image/apps.54692.14488339386131194.84ca8b8a-582e-4d34-904e-8f1e60f71000.e50f74bc-567d-47a5-aea7-e1562cb0bb4a",
+        "https://store-images.s-microsoft.com/image/apps.43400.14488339386131194.84ca8b8a-582e-4d34-904e-8f1e60f71000.b62d6540-8486-4a0e-b701-8bd9355744e8",
+        "https://store-images.s-microsoft.com/image/apps.17596.14488339386131194.84ca8b8a-582e-4d34-904e-8f1e60f71000.5a7aa9d8-ab07-4f8d-bce8-02fd43cd8e77"
       ]
     },
     "releaseDate": "2021-03-25",
@@ -1992,7 +1992,7 @@
       ]
     },
     "releaseDate": "2022-10-13",
-    "userRating": 0.38,
+    "userRating": 0.4,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 469,
@@ -2080,7 +2080,7 @@
       ]
     },
     "releaseDate": "2021-11-04",
-    "userRating": 0.66,
+    "userRating": 0.68,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 79,
@@ -2195,16 +2195,16 @@
     "productDescription": "《WILD HEARTS™》為你帶來狩獵類型遊戲的全新感受，當中的古科技將提供你與野性巨獸一搏的力量。你可以獨自迎戰這些生物，或在爽快的合作模式中與好友聯手出擊。\r\n沒有人記得化獸為什麼會在曾經繁榮的東之國土到處肆虐。這些野獸受絕境所迫，展現了自然野性最具破壞性的威力。好一段時期，似乎沒有人能對抗化獸壓倒性的力量，但一名技術精湛的獵人出現，帶來了希望。這名獵人帶上致命武器和叫作絡繰的古代科技，用來在戰場上扭轉乾坤。\r\n\r\n狩獵野性巨獸\r\n活過化獸的攻擊，摸清牠們的行為，並結合運用絡繰和武器，拿下勝利。\r\n\r\n打造自己的狩獵場\r\n東之國土只有你能駕馭絡繰技術。這種古代科技能將環境改造成創意十足的狩獵場，用來擊敗巨型化獸。\r\n\r\n組隊狩獵或單打獨鬥\r\n在《WILD HEARTS™》中，你可以選擇獨自迎戰化獸，也能與最多兩名好友（或其他玩家）一起追捕獵物。\r\n\r\n整裝狩獵，狩獵備裝\r\n狩獵得越多，進展就越快。建立角色後，從每次的狩獵收集材料，製造各式護甲和武器，進而打敗更大型的野獸。\r\n\r\n探索奇幻風的封建日本\r\n探索以四季為靈感的狩獵場，以及各個區域獨特的美景和危險。\r\n\r\n《WILD HEARTS™》為現世代的平台開發，由開發《真・三國無雙》系列的日本工作室 ω-Force 製作，將帶領你進入以封建日本為靈感的奇幻世界，踏上史詩般的冒險旅程。\r\n\r\n適用條款與限制。詳細資訊請參閱 ea.com/wild-hearts/wild-hearts/disclaimers。\r\n©KOEI TECMO GAMES CO., LTD. All rights reserved.",
     "images": {
       "Screenshot": [
-        "https://store-images.s-microsoft.com/image/apps.18277.14419340246812518.4f8169fc-2f80-4d2c-992f-7c919b70c4fa.60b795db-a8dc-4581-9d74-39dd20cbf9d7",
-        "https://store-images.s-microsoft.com/image/apps.32682.14419340246812518.4f8169fc-2f80-4d2c-992f-7c919b70c4fa.53bafd91-0997-4675-bb39-f94df217d5e7",
-        "https://store-images.s-microsoft.com/image/apps.43321.14419340246812518.4f8169fc-2f80-4d2c-992f-7c919b70c4fa.5be1e49e-fdbd-43a1-bfa6-4028c437aeb7",
-        "https://store-images.s-microsoft.com/image/apps.55664.14419340246812518.4f8169fc-2f80-4d2c-992f-7c919b70c4fa.49e0d307-448e-43fa-a9fc-ce3e23dd23c4",
-        "https://store-images.s-microsoft.com/image/apps.43356.14419340246812518.4f8169fc-2f80-4d2c-992f-7c919b70c4fa.ed29fac5-c81f-4b72-85b7-1f0e0a49df5e",
-        "https://store-images.s-microsoft.com/image/apps.24639.14419340246812518.0f60d3ea-690f-4be1-9348-c9bcb2ff492f.41d909a4-5cf5-4134-840f-4058142990e3",
-        "https://store-images.s-microsoft.com/image/apps.43251.14419340246812518.0f60d3ea-690f-4be1-9348-c9bcb2ff492f.5e917c23-e9e1-4391-b89c-8ea39a434fb5",
-        "https://store-images.s-microsoft.com/image/apps.6200.14419340246812518.0f60d3ea-690f-4be1-9348-c9bcb2ff492f.bdfb686a-2c4d-475a-aef3-d589b4de9d70",
-        "https://store-images.s-microsoft.com/image/apps.63063.14419340246812518.0f60d3ea-690f-4be1-9348-c9bcb2ff492f.96faecf3-72bb-43ad-a24c-a0812bcc7e37",
-        "https://store-images.s-microsoft.com/image/apps.47160.14419340246812518.0f60d3ea-690f-4be1-9348-c9bcb2ff492f.014a32e5-5fca-4429-9abc-7ac6108b086f"
+        "https://store-images.s-microsoft.com/image/apps.18277.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.d2eed2dd-2b77-435b-bdcf-e060120ee2d1",
+        "https://store-images.s-microsoft.com/image/apps.32682.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.59aed451-050d-43b3-b357-1e12471de1a2",
+        "https://store-images.s-microsoft.com/image/apps.43321.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.3e725701-4060-4dfc-af44-361083d82497",
+        "https://store-images.s-microsoft.com/image/apps.55664.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.c1dd94a9-afd8-4bf4-aef9-daf51fe4e9e8",
+        "https://store-images.s-microsoft.com/image/apps.43356.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.200a420a-b732-42bc-ac30-e19f1e42774e",
+        "https://store-images.s-microsoft.com/image/apps.24639.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.2438d9ce-06c6-483a-8adf-e1d2de4dbbe7",
+        "https://store-images.s-microsoft.com/image/apps.43251.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.bfc7624a-0ce9-45ee-903c-cbc1b578bd10",
+        "https://store-images.s-microsoft.com/image/apps.6200.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.9044f425-f3d9-418d-9702-3062f24ff9b7",
+        "https://store-images.s-microsoft.com/image/apps.63063.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.af555ccf-a2f5-4bdd-9eea-678d128a769c",
+        "https://store-images.s-microsoft.com/image/apps.47160.13635856794979045.e29298f4-e6ee-4949-a29e-9fd605e02696.f13a42e2-326a-440c-9aa2-01bb7152f606"
       ],
       "Poster": [
         "https://store-images.s-microsoft.com/image/apps.15566.14419340246812518.6ed7971c-0390-4d30-8373-3724d60e305e.18f702a4-ab4c-4faf-92ac-b940ef5561e2"
@@ -2229,9 +2229,9 @@
     "userRating": 0.6,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 219.6,
+      "ListPrice": 549,
       "MSRP": 549,
-      "WholesalePrice": 153.72
+      "WholesalePrice": 384.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/wild-hearts/9NTFPTBXDDT3"
   },
@@ -2336,9 +2336,9 @@
     "userRating": 0.78,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 204,
+      "ListPrice": 408,
       "MSRP": 408,
-      "WholesalePrice": 142.8
+      "WholesalePrice": 285.6
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store//9N4BH9FLLMWD"
   },
@@ -2450,162 +2450,11 @@
     "userRating": 0.92,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 223.5,
+      "ListPrice": 298,
       "MSRP": 298,
-      "WholesalePrice": 156.45
+      "WholesalePrice": 208.6
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/7/9PCMWNDPPBFZ"
-  },
-  {
-    "productTitle": "女神異聞錄３ 攜帶版",
-    "productId": "9NJWL0XVLP7T",
-    "developerName": "ATLUS",
-    "publisherName": "SEGA",
-    "categories": [
-      "Role playing"
-    ],
-    "productDescription": "如果有人對你說……\r\n 1天不只有24小時，你會相信嗎？\r\n\r\n轉學到月光館學園的主人公，\r\n 在造訪學生宿舍的夜晚遭遇了奇妙體驗。\r\n 城鎮的街燈全部熄滅，機械也全數停止，路上還出現了許多棺木。\r\n 接著還與陌生的少年訂下了神祕契約。\r\n \r\n 在每一天的過度之時存在著隱藏的夾縫時間「影時間」，還有在該時段中出現並襲擊人們的「陰影」。\r\n 主人公在最後，終將面對自己被賦予的命運──\r\n\r\n※也有內含『女神異聞錄4 黃金版』的超值優惠同捆版套組。",
-    "images": {
-      "Logo": [
-        "https://store-images.s-microsoft.com/image/apps.31287.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.76c570f8-4821-4804-98f9-24b6b2f0186c"
-      ],
-      "Poster": [
-        "https://store-images.s-microsoft.com/image/apps.4520.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.838718fb-2a41-41eb-aefe-38970b101b41"
-      ],
-      "BoxArt": [
-        "https://store-images.s-microsoft.com/image/apps.22603.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.3436e023-2a2e-41fd-925a-c82afc034c45"
-      ],
-      "TitledHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.45983.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.53b494be-ba67-410b-869c-bf9ff9ef5800"
-      ],
-      "BrandedKeyArt": [
-        "https://store-images.s-microsoft.com/image/apps.51253.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.c5bfc0c2-fd6e-443c-94f2-28566074291e"
-      ],
-      "Hero": [
-        "https://store-images.s-microsoft.com/image/apps.46807.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.58b16f56-d8e0-432e-a856-50b158496189"
-      ],
-      "FeaturePromotionalSquareArt": [
-        "https://store-images.s-microsoft.com/image/apps.16014.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.00567037-2780-45b8-832e-cc8eea3c4f13"
-      ],
-      "SuperHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.28191.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.7653b54e-e4c4-4016-8539-01f2c16a47f0"
-      ],
-      "Screenshot": [
-        "https://store-images.s-microsoft.com/image/apps.64056.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.dde4e521-b6bd-47da-baee-6ecd8f1f54a1",
-        "https://store-images.s-microsoft.com/image/apps.64056.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.dde4e521-b6bd-47da-baee-6ecd8f1f54a1",
-        "https://store-images.s-microsoft.com/image/apps.33246.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.05e02de5-d398-4fcc-a89b-468d2ade0b62",
-        "https://store-images.s-microsoft.com/image/apps.33246.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.05e02de5-d398-4fcc-a89b-468d2ade0b62",
-        "https://store-images.s-microsoft.com/image/apps.47626.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.52ebeaf7-32df-47bb-9893-a5f33e9aaae2",
-        "https://store-images.s-microsoft.com/image/apps.47626.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.52ebeaf7-32df-47bb-9893-a5f33e9aaae2",
-        "https://store-images.s-microsoft.com/image/apps.43570.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.15133aae-229d-4124-b6cb-c38969b667b5",
-        "https://store-images.s-microsoft.com/image/apps.43570.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.15133aae-229d-4124-b6cb-c38969b667b5",
-        "https://store-images.s-microsoft.com/image/apps.9166.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.4577652e-743f-40bb-8895-f9f57c02aa79",
-        "https://store-images.s-microsoft.com/image/apps.9166.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.4577652e-743f-40bb-8895-f9f57c02aa79",
-        "https://store-images.s-microsoft.com/image/apps.47205.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.4cfa19e2-235f-4d68-bb9e-bca4e99ed32c",
-        "https://store-images.s-microsoft.com/image/apps.47205.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.4cfa19e2-235f-4d68-bb9e-bca4e99ed32c",
-        "https://store-images.s-microsoft.com/image/apps.27487.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.734a1d25-e5cc-429a-b87f-28aa2affc04f",
-        "https://store-images.s-microsoft.com/image/apps.27487.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.734a1d25-e5cc-429a-b87f-28aa2affc04f",
-        "https://store-images.s-microsoft.com/image/apps.47986.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.3de98c5c-2614-4835-81d4-97254d11b19b",
-        "https://store-images.s-microsoft.com/image/apps.47986.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.3de98c5c-2614-4835-81d4-97254d11b19b",
-        "https://store-images.s-microsoft.com/image/apps.8884.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.6558d6d2-a4ad-4a1a-9c58-0fbb00711917",
-        "https://store-images.s-microsoft.com/image/apps.8884.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.6558d6d2-a4ad-4a1a-9c58-0fbb00711917",
-        "https://store-images.s-microsoft.com/image/apps.8795.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.0f7c9e5f-ebe9-4ea3-b97e-85f80810700c",
-        "https://store-images.s-microsoft.com/image/apps.8795.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.0f7c9e5f-ebe9-4ea3-b97e-85f80810700c",
-        "https://store-images.s-microsoft.com/image/apps.17436.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.598943e5-f5e5-4949-ae5e-26763c2ef693",
-        "https://store-images.s-microsoft.com/image/apps.17436.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.598943e5-f5e5-4949-ae5e-26763c2ef693",
-        "https://store-images.s-microsoft.com/image/apps.37761.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.47c622af-c545-4803-8d21-b7c587ce8f7f",
-        "https://store-images.s-microsoft.com/image/apps.37761.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.47c622af-c545-4803-8d21-b7c587ce8f7f",
-        "https://store-images.s-microsoft.com/image/apps.26442.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.fe54c4a7-a028-4365-bb12-b56ed1eac46c",
-        "https://store-images.s-microsoft.com/image/apps.26442.13672969377617960.7b2afd2f-5fca-4e0a-ad40-cda4db97ad9f.fe54c4a7-a028-4365-bb12-b56ed1eac46c",
-        "https://store-images.s-microsoft.com/image/apps.53766.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.b3382a01-c55e-4b0a-9d01-ecead4b0b837",
-        "https://store-images.s-microsoft.com/image/apps.53766.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.b3382a01-c55e-4b0a-9d01-ecead4b0b837",
-        "https://store-images.s-microsoft.com/image/apps.51159.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.6210d91e-85cf-4e3a-b152-7e9caaa9f5e3",
-        "https://store-images.s-microsoft.com/image/apps.51159.13672969377617960.8b9caabb-4abd-4de7-8a2e-96f8a9f13b21.6210d91e-85cf-4e3a-b152-7e9caaa9f5e3"
-      ]
-    },
-    "releaseDate": "2023-01-18",
-    "userRating": 0.8,
-    "pricing": {
-      "currencyCode": "HKD",
-      "ListPrice": 148,
-      "MSRP": 148,
-      "WholesalePrice": 103.6
-    },
-    "storePage": "https://www.xbox.com/zh-hk/games/store//9NJWL0XVLP7T"
-  },
-  {
-    "productTitle": "女神異聞錄４ 黃金版",
-    "productId": "9PK4B09SMN5C",
-    "developerName": "ATLUS",
-    "publisherName": "SEGA",
-    "categories": [
-      "Role playing"
-    ],
-    "productDescription": "你知道“深夜電視”嗎？\r\n 聽說只要在下雨的夜裡盯著消失的電視畫面，\r\n 就能看到命中注定的人。\r\n\r\n鄉下城鎮發生了連續殺人事件，奇怪的謠言也同時傳開。\r\n 接著，一陣起因不明的霧壟罩小鎮，就好像要扼殺小鎮的未來。\r\n 主人公與伙伴們追查身分不明的殺人犯的謎團時，\r\n 意外打開了通往異世界的門。\r\n 而那扇門的鑰匙就是……心之力。也就是另一個自己——人格面具。\r\n\r\n※也有內含『女神異聞錄3 攜帶版』的超值優惠同捆版套組。",
-    "images": {
-      "Poster": [
-        "https://store-images.s-microsoft.com/image/apps.53498.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.2ba2c0dd-dd7a-47d7-9464-a452721a5aca"
-      ],
-      "Logo": [
-        "https://store-images.s-microsoft.com/image/apps.21982.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.40163d9b-5aac-44e3-b9f0-2626c55f7a26"
-      ],
-      "BoxArt": [
-        "https://store-images.s-microsoft.com/image/apps.17504.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.691e4b07-d96c-40bd-a2f6-e7400db75d02"
-      ],
-      "SuperHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.2138.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.dec5da35-126f-4878-881e-04590e9af697"
-      ],
-      "BrandedKeyArt": [
-        "https://store-images.s-microsoft.com/image/apps.55794.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.f522e77a-5da3-4b75-8768-0648ee08d1a5"
-      ],
-      "TitledHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.16250.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.2210c14b-2adf-4787-8a01-ad4480023352"
-      ],
-      "Hero": [
-        "https://store-images.s-microsoft.com/image/apps.33359.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.77a075b6-d632-41af-b153-7ecead9a0adb"
-      ],
-      "FeaturePromotionalSquareArt": [
-        "https://store-images.s-microsoft.com/image/apps.49802.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.cd88e6ff-1ae0-4686-9caa-c797af3432be"
-      ],
-      "Screenshot": [
-        "https://store-images.s-microsoft.com/image/apps.50654.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.14e8c90e-1420-41f7-98c1-19eb739e6155",
-        "https://store-images.s-microsoft.com/image/apps.50654.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.14e8c90e-1420-41f7-98c1-19eb739e6155",
-        "https://store-images.s-microsoft.com/image/apps.22969.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.e2ad641a-efa5-41ef-8721-03ab2bae6323",
-        "https://store-images.s-microsoft.com/image/apps.50932.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.81a58aae-8c0f-467c-9b6a-54142b06b7df",
-        "https://store-images.s-microsoft.com/image/apps.21117.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.ae35d684-2b1c-4391-a72e-7bd982667cfa",
-        "https://store-images.s-microsoft.com/image/apps.54292.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.7d151c43-0e73-4b07-96a4-0e929f4f32c8",
-        "https://store-images.s-microsoft.com/image/apps.37838.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.f932c436-0cf5-4ea5-9dcd-4879cd8904a6",
-        "https://store-images.s-microsoft.com/image/apps.3252.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.6f2d1e1d-48e6-4eec-a7cb-0a116307a0dc",
-        "https://store-images.s-microsoft.com/image/apps.12687.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.896991d4-86e0-4f89-8119-0371f85b3f84",
-        "https://store-images.s-microsoft.com/image/apps.36710.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.15a0269c-03c9-4e89-8d9b-05d3006dcc86",
-        "https://store-images.s-microsoft.com/image/apps.60639.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.a52e849d-7f7f-4b77-a22b-a6c225c5cb32",
-        "https://store-images.s-microsoft.com/image/apps.21117.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.ae35d684-2b1c-4391-a72e-7bd982667cfa",
-        "https://store-images.s-microsoft.com/image/apps.43680.14274331993185118.225f23fd-2fa3-4395-8e97-600aa9b0c7a7.bc559f43-354b-4a95-b007-aea47bb040d6",
-        "https://store-images.s-microsoft.com/image/apps.37838.14274331993185118.d1429e04-9d9f-4a4f-bb4c-5514229e3a28.f932c436-0cf5-4ea5-9dcd-4879cd8904a6",
-        "https://store-images.s-microsoft.com/image/apps.18693.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.2c096cae-20b4-4434-b3d5-d5dbc3f3490a",
-        "https://store-images.s-microsoft.com/image/apps.12687.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.896991d4-86e0-4f89-8119-0371f85b3f84",
-        "https://store-images.s-microsoft.com/image/apps.34802.14274331993185118.225f23fd-2fa3-4395-8e97-600aa9b0c7a7.15e5728c-3a42-4eb2-924c-e250990a9e08",
-        "https://store-images.s-microsoft.com/image/apps.60639.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.a52e849d-7f7f-4b77-a22b-a6c225c5cb32",
-        "https://store-images.s-microsoft.com/image/apps.22905.14274331993185118.225f23fd-2fa3-4395-8e97-600aa9b0c7a7.21267310-989b-4ef3-b0a5-ece59806e7fa",
-        "https://store-images.s-microsoft.com/image/apps.43680.14274331993185118.225f23fd-2fa3-4395-8e97-600aa9b0c7a7.bc559f43-354b-4a95-b007-aea47bb040d6",
-        "https://store-images.s-microsoft.com/image/apps.28968.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.d9a5e676-58a5-432a-aec3-4a13e3c043db",
-        "https://store-images.s-microsoft.com/image/apps.18693.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.2c096cae-20b4-4434-b3d5-d5dbc3f3490a",
-        "https://store-images.s-microsoft.com/image/apps.31942.14274331993185118.225f23fd-2fa3-4395-8e97-600aa9b0c7a7.2ca6683c-2836-469c-9deb-4993f561510c",
-        "https://store-images.s-microsoft.com/image/apps.34802.14274331993185118.225f23fd-2fa3-4395-8e97-600aa9b0c7a7.15e5728c-3a42-4eb2-924c-e250990a9e08",
-        "https://store-images.s-microsoft.com/image/apps.22905.14274331993185118.225f23fd-2fa3-4395-8e97-600aa9b0c7a7.21267310-989b-4ef3-b0a5-ece59806e7fa",
-        "https://store-images.s-microsoft.com/image/apps.28968.14274331993185118.8da3248f-9e4b-4c0a-bb0e-82a713995672.d9a5e676-58a5-432a-aec3-4a13e3c043db",
-        "https://store-images.s-microsoft.com/image/apps.31942.14274331993185118.225f23fd-2fa3-4395-8e97-600aa9b0c7a7.2ca6683c-2836-469c-9deb-4993f561510c"
-      ]
-    },
-    "releaseDate": "2023-01-18",
-    "userRating": 0.92,
-    "pricing": {
-      "currencyCode": "HKD",
-      "ListPrice": 148,
-      "MSRP": 148,
-      "WholesalePrice": 103.6
-    },
-    "storePage": "https://www.xbox.com/zh-hk/games/store//9PK4B09SMN5C"
   },
   {
     "productTitle": "女神異聞錄５ 戰略版",
@@ -2928,9 +2777,9 @@
     "userRating": 0.52,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 74.5,
+      "ListPrice": 149,
       "MSRP": 149,
-      "WholesalePrice": 52.15
+      "WholesalePrice": 104.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store//9P6W2Q41BB8V"
   },
@@ -2986,9 +2835,9 @@
     "userRating": 0.78,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 154,
+      "ListPrice": 53.9,
       "MSRP": 154,
-      "WholesalePrice": 107.8
+      "WholesalePrice": 37.73
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store//9NKHKBQJSSC3"
   },
@@ -3339,9 +3188,9 @@
     "userRating": 0.74,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 119,
+      "ListPrice": 238,
       "MSRP": 238,
-      "WholesalePrice": 83.3
+      "WholesalePrice": 166.6
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store//9PH4TQ1T0VRZ"
   },
@@ -3849,6 +3698,58 @@
       "WholesalePrice": 167.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store//C4HZC7LJG6PX"
+  },
+  {
+    "productTitle": "殘存之人",
+    "productId": "9MWSQ6NPV189",
+    "developerName": "Camel 101",
+    "publisherName": "Wired Productions",
+    "categories": [
+      "Action & adventure",
+      "Puzzle & trivia"
+    ],
+    "productDescription": "燈光熄滅之後，黑暗餘燼在睡意朦朧的多爾蒙小鎮上燃起。在這個故事驅動的主視角心理驚悚遊戲中，直面難言的恐懼，保持理智，熬過黑夜。",
+    "images": {
+      "BoxArt": [
+        "https://store-images.s-microsoft.com/image/apps.54737.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.faec4d37-9cb6-4f68-bb5c-0f3b9d9b8045"
+      ],
+      "BrandedKeyArt": [
+        "https://store-images.s-microsoft.com/image/apps.20925.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.70d8d916-ace8-4ed9-9559-b4bd45ec44bb"
+      ],
+      "TitledHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.15576.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.7d8bcea3-cd34-41bf-95c7-6aa317198169"
+      ],
+      "Poster": [
+        "https://store-images.s-microsoft.com/image/apps.36041.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.cc06170a-7896-4dcd-9349-4ddc78de5df0"
+      ],
+      "FeaturePromotionalSquareArt": [
+        "https://store-images.s-microsoft.com/image/apps.61182.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.35d332c0-337c-42c1-90d3-709788b05bf7"
+      ],
+      "SuperHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.41372.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.32d0e90b-ec32-42e4-b44b-d64352249841"
+      ],
+      "Screenshot": [
+        "https://store-images.s-microsoft.com/image/apps.53754.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.5e8ebe3b-b14e-4500-870b-7383939b8b00",
+        "https://store-images.s-microsoft.com/image/apps.48293.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.31f4622e-5062-4269-89f4-15a80dbecf7d",
+        "https://store-images.s-microsoft.com/image/apps.10029.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.510fd1cf-6eca-441d-84fe-2c82d01daad7",
+        "https://store-images.s-microsoft.com/image/apps.41771.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.2726a547-092a-46d2-b29f-b6754c216d03",
+        "https://store-images.s-microsoft.com/image/apps.41821.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.c7a7f214-742a-4b42-afa0-d4d0f504454d",
+        "https://store-images.s-microsoft.com/image/apps.25726.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.b64eafac-0d28-45d9-a448-c815052ae123",
+        "https://store-images.s-microsoft.com/image/apps.45089.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.28b5be6c-9a15-4db7-b713-bbfa0f8130f9",
+        "https://store-images.s-microsoft.com/image/apps.59856.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.beab63a3-bee5-4e9e-aa85-1efad0fd9af7",
+        "https://store-images.s-microsoft.com/image/apps.42511.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.66fcdc82-ecc4-4504-8d82-146b612c29c2",
+        "https://store-images.s-microsoft.com/image/apps.63561.13832975182666906.13302cbf-27f6-488d-9a1a-9dcb94ca4f6d.8c341072-d936-4685-bb3e-e132a3a4db9e"
+      ]
+    },
+    "releaseDate": "2020-05-28",
+    "userRating": 0.52,
+    "pricing": {
+      "currencyCode": "HKD",
+      "ListPrice": 154,
+      "MSRP": 154,
+      "WholesalePrice": 107.8
+    },
+    "storePage": "https://www.xbox.com/zh-hk/games/store//9MWSQ6NPV189"
   },
   {
     "productTitle": "無人之境",
@@ -4639,9 +4540,9 @@
     "userRating": 0.72,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 163.8,
+      "ListPrice": 468,
       "MSRP": 468,
-      "WholesalePrice": 114.66
+      "WholesalePrice": 327.6
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/2/9PBS5BHSPHFJ"
   },
@@ -4914,9 +4815,9 @@
     "userRating": 0.74,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 194,
+      "ListPrice": 135.8,
       "MSRP": 194,
-      "WholesalePrice": 135.8
+      "WholesalePrice": 95.06
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/airborne-kingdom/9NCX7DGDZGF4"
   },
@@ -5247,9 +5148,9 @@
     "userRating": 0.7,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 154,
+      "ListPrice": 84.7,
       "MSRP": 154,
-      "WholesalePrice": 107.8
+      "WholesalePrice": 59.29
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/arcade-paradise/9N2FQCGWH32D"
   },
@@ -5468,9 +5369,9 @@
     "userRating": 0.84,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 100.1,
+      "ListPrice": 500.5,
       "MSRP": 500.5,
-      "WholesalePrice": 70.07
+      "WholesalePrice": 350.35
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/assassin-s-creed-odyssey/BW9TWC8L4JCS"
   },
@@ -5514,11 +5415,62 @@
     "userRating": 0.88,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 59.47,
+      "ListPrice": 396.5,
       "MSRP": 396.5,
-      "WholesalePrice": 41.63
+      "WholesalePrice": 277.55
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/assassin-s-creed-origins/BZGJRJC1FGF3"
+  },
+  {
+    "productTitle": "Assassin's Creed® Valhalla",
+    "productId": "9P4NJFH17MRT",
+    "developerName": "UBISOFT MONTREAL",
+    "publisherName": "UBISOFT",
+    "categories": [
+      "Action & adventure"
+    ],
+    "productDescription": "This game leverages Smart Delivery allowing access to both the Xbox One title and the Xbox Series X|S title\r\n\r\nEivor’s journey is coming to an end in Assassin’s Creed Valhalla: The Last Chapter, a new free story pack bringing an intimate closure to the saga of the Wolf-Kissed.\r\n\r\nShared History is a new free quest for all Assassin’s Creed Valhalla players, featuring Roshan, from Assassin’s Creed Mirage.\r\n\r\nBuild your own Viking legend at 60 FPS and in 4K resolution on Xbox Series X.\r\n\r\nBecome Eivor, a legendary Viking warrior. Explore England's Dark Ages as you raid your enemies, grow your settlement, and build your political power in the quest to earn a place among the gods in Valhalla.\r\n\r\n- Lead epic Viking raids against Saxon troops and fortresses.\r\n- Relive the visceral fighting style of the Vikings as you dual-wield powerful weapons.\r\n- Challenge yourself with the most varied collection of enemies ever in Assassin's Creed.\r\n- Shape the growth of your character and your clan's settlement with every choice you make.\r\n- Explore a Dark Age open world, from the harsh shores of Norway to the beautiful kingdoms of England.",
+    "images": {
+      "Poster": [
+        "https://store-images.s-microsoft.com/image/apps.1547.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.75930d81-6e85-436d-9b61-1279b8dd9b31"
+      ],
+      "BoxArt": [
+        "https://store-images.s-microsoft.com/image/apps.51716.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.802f0267-5f00-464e-ac26-a7a901bbb532"
+      ],
+      "FeaturePromotionalSquareArt": [
+        "https://store-images.s-microsoft.com/image/apps.12818.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.c1231c90-28cd-4df6-8381-9dc417a3c3f1"
+      ],
+      "BrandedKeyArt": [
+        "https://store-images.s-microsoft.com/image/apps.43849.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.de9deb89-d264-40e7-a58a-1cb96c8e6b99"
+      ],
+      "TitledHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.11509.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.61fcba0e-cc96-4c93-935b-02df036a332c"
+      ],
+      "SuperHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.8098.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.222e4dfa-df01-4864-a10a-bc3666f1a3cf"
+      ],
+      "Screenshot": [
+        "https://store-images.s-microsoft.com/image/apps.22101.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.b7bf41f8-6f8b-42ce-b520-f65692bf73af",
+        "https://store-images.s-microsoft.com/image/apps.61302.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.99172e73-6e6e-4464-bf5c-c90595618a56",
+        "https://store-images.s-microsoft.com/image/apps.37498.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.cd7127a8-776b-42cc-8558-a2f66ae5cbf5",
+        "https://store-images.s-microsoft.com/image/apps.48961.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.f7ca8f8f-b6c7-47ae-8716-92be2c652aab",
+        "https://store-images.s-microsoft.com/image/apps.16717.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.465de5c1-38a4-491e-9a84-fe9e7dbd7460",
+        "https://store-images.s-microsoft.com/image/apps.54223.14585440003614248.da5c1c25-09b1-4c72-ae23-bf564e0dc62c.2b42f2b0-d0de-4f37-87c6-e704c031f57c",
+        "https://store-images.s-microsoft.com/image/apps.17788.14585440003614248.d56a2045-5a76-4586-b8a4-b36400fd0c68.88d7f32b-5d64-47ad-b573-d0150c7e31e5",
+        "https://store-images.s-microsoft.com/image/apps.40304.14585440003614248.d56a2045-5a76-4586-b8a4-b36400fd0c68.1f4e6321-ce93-41d9-abcf-bdde1b44ad24",
+        "https://store-images.s-microsoft.com/image/apps.30384.14585440003614248.d56a2045-5a76-4586-b8a4-b36400fd0c68.d1cd690c-275d-4adf-9d0c-2c74bc014eba",
+        "https://store-images.s-microsoft.com/image/apps.32742.14585440003614248.d56a2045-5a76-4586-b8a4-b36400fd0c68.4bed28b6-6a1e-43fa-ace4-45b06d6d05bb"
+      ]
+    },
+    "releaseDate": "2020-11-10",
+    "userRating": 0.7,
+    "pricing": {
+      "currencyCode": "HKD",
+      "ListPrice": 469,
+      "MSRP": 469,
+      "WholesalePrice": 328.3
+    },
+    "storePage": "https://www.xbox.com/zh-hk/games/store/assassin-s-creed-valhalla/9P4NJFH17MRT"
   },
   {
     "productTitle": "ASTRONEER",
@@ -5579,9 +5531,9 @@
     "userRating": 0.78,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 93.6,
+      "ListPrice": 234,
       "MSRP": 234,
-      "WholesalePrice": 65.52
+      "WholesalePrice": 163.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/astroneer/9NBLGGH43KZB"
   },
@@ -5893,9 +5845,9 @@
     "userRating": 0.82,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 31.2,
+      "ListPrice": 312,
       "MSRP": 312,
-      "WholesalePrice": 21.84
+      "WholesalePrice": 218.4
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/battlefield-1-revolution/BPL68T0XK96W"
   },
@@ -6201,7 +6153,7 @@
       ]
     },
     "releaseDate": "2023-05-01",
-    "userRating": 0.7,
+    "userRating": 0.62,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 154,
@@ -6429,9 +6381,9 @@
     "userRating": 0.8,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 114,
+      "ListPrice": 22.8,
       "MSRP": 114,
-      "WholesalePrice": 79.8
+      "WholesalePrice": 15.96
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/broforce/9P03ZQMBMV65"
   },
@@ -6715,9 +6667,9 @@
     "userRating": 0.8,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 234,
+      "ListPrice": 152.1,
       "MSRP": 234,
-      "WholesalePrice": 163.8
+      "WholesalePrice": 106.47
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/car-mechanic-simulator-2021/9NH019ZFFHTV"
   },
@@ -6770,12 +6722,12 @@
       ]
     },
     "releaseDate": "2023-04-26",
-    "userRating": 0.8,
+    "userRating": 0.82,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 154,
+      "ListPrice": 115.5,
       "MSRP": 154,
-      "WholesalePrice": 107.8
+      "WholesalePrice": 80.85
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/cassette-beasts/9N82SNQTZVMQ"
   },
@@ -6885,9 +6837,9 @@
     "userRating": 0.66,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 309,
+      "ListPrice": 123.6,
       "MSRP": 309,
-      "WholesalePrice": 216.3
+      "WholesalePrice": 86.52
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/chivalry-2/9N7CJX93ZGWN"
   },
@@ -7093,7 +7045,7 @@
       ]
     },
     "releaseDate": "2019-10-28",
-    "userRating": 0.74,
+    "userRating": 0.72,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 194,
@@ -7195,7 +7147,7 @@
       ]
     },
     "releaseDate": "2023-04-19",
-    "userRating": 0.84,
+    "userRating": 0.86,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 114,
@@ -8124,9 +8076,9 @@
     "userRating": 0.9,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 154,
+      "ListPrice": 53.9,
       "MSRP": 154,
-      "WholesalePrice": 107.8
+      "WholesalePrice": 37.73
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/death-s-door/9NDZ7NXFF622"
   },
@@ -9183,9 +9135,9 @@
     "productDescription": "Control the spice, control the universe.\r\n\r\nThis is your desert, your Dune.\r\n\r\nLead your faction and battle for control and dominance over the harsh desert planet of Arrakis. Spice is the most valuable resource in the universe. The spice extends life, expands consciousness, and makes interstellar travel possible. Found only on Arrakis, it is sought by the most influential forces in the Imperium…\r\n\r\nScan the landscape for wormsign or risk losing your troops and spice harvesters to colossal sandworms who will burst through the dunes to devour them whole. Crush your opponents in combat, best them through political intrigue, and undermine them with your network of illusive spies.\r\n\r\n\r\nFrank Herbert's Dune.\r\n\r\nExperience the unique Dune universe, one of the most influential sci-fi settings ever created. Lead your faction to victory with iconic characters, such as Duke Leto Atreides, the Baron Vladimir Harkonnen, the Padishah Emperor Shaddam IV, Esmar Tuek, and Liet Kynes. Stay alert as opposing factions seek to gain the upper hand and the planet itself threatens with vast deserts, huge storms, and the dreaded sandworms.\r\n\r\n\r\nForge your own path to victory.\r\n\r\n4X in real time.\r\n\r\nBalance open warfare, subterfuge, political influence, and economic supremacy to prevail and gain control over the most important planet in the universe. Use secretive agents to sabotage the plans of your opponents. Vote on political resolutions in the Landsraad to further your strategy. Or dominate your opponents by overwhelming them with an all out assault.\r\n\r\nExplore Arrakis with ornithopters to discover resources, villages, and points of interest. Expand with your troops to take control of regions. Exploit the resources through buildings and spice harvesters to dominate the economy. Deploy your spaceships and aircrafts to exterminate your enemies but beware as outright aggression can have high political repercussions.\r\n\r\n\r\nChoose your faction.\r\n\r\nEmbark on a strategic journey where you can choose the path of honor and politics or embrace violence and deceit. Choose from various factions with unique abilities and playstyles. Each faction can be customized by selecting councilors who enhance their strengths and mitigate weaknesses.\r\n\r\nWhether you choose survival tactics, shady dealings, military might, or dominating the spice trade, there is a faction and councilor combination for every player's preference. Explore the possibilities and shape your own destiny on Arrakis.\r\n\r\n\r\nThe conquest of Arrakis. \r\n\r\nConquest mode.\r\n\r\nTake control of one of the major houses and fight through a number of unique scenarios and situations. Personalize your starting house with a variety of perks and upgrades to tackle the many challenging objectives of the Conquest mode, ensuring you a unique experience every time you play.\r\n\r\n\r\nUp to 4-player multiplayer.\r\n\r\nBand together in 2v2 matches or face each other in a free-for-all of up to four players. Tailor the parameters of your multiplayer match to your preferences, including AI difficulty, map size, victory conditions, sandworm aggression, storms, and number of Sietches. Team up and try different faction combinations to identify synergies and dominate Arrakis.\r\n",
     "images": {
       "Logo": [
-        "https://store-images.s-microsoft.com/image/apps.9397.13993061156496216.c5c83445-c83d-441f-8d79-a05fa134dcd7.82b8710b-5b11-4dd8-8725-982c9eaa3b10",
-        "https://store-images.s-microsoft.com/image/apps.49181.13993061156496216.c5c83445-c83d-441f-8d79-a05fa134dcd7.ae6de236-00d9-4f77-b15f-913922f7808b",
-        "https://store-images.s-microsoft.com/image/apps.1382.13993061156496216.c5c83445-c83d-441f-8d79-a05fa134dcd7.8020ef05-ffa1-417b-9985-a0236adf4cb9"
+        "https://store-images.s-microsoft.com/image/apps.14182.13993061156496216.a99e7cae-2efa-4deb-9406-c5b487cfc7b9.1226ede8-0879-44fc-8b26-5a3c25c0d74d",
+        "https://store-images.s-microsoft.com/image/apps.19171.13993061156496216.a99e7cae-2efa-4deb-9406-c5b487cfc7b9.02e1db17-970c-4ed5-a2fc-ae22313ff4f3",
+        "https://store-images.s-microsoft.com/image/apps.49263.13993061156496216.a99e7cae-2efa-4deb-9406-c5b487cfc7b9.fc6ad6aa-ef4f-4bf9-b60c-caf5191bd010"
       ],
       "Poster": [
         "https://store-images.s-microsoft.com/image/apps.62876.13993061156496216.c5c83445-c83d-441f-8d79-a05fa134dcd7.2848beaf-9db0-45de-892d-c87095de9fb7"
@@ -9561,9 +9513,9 @@
     "userRating": 0.78,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 389,
+      "ListPrice": 252.85,
       "MSRP": 389,
-      "WholesalePrice": 272.3
+      "WholesalePrice": 176.99
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/everspace-2/9PFX7F33KVG8"
   },
@@ -9623,9 +9575,9 @@
     "userRating": 0.58,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 458,
+      "ListPrice": 229,
       "MSRP": 458,
-      "WholesalePrice": 320.6
+      "WholesalePrice": 160.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/exoprimal/9NMFRHJX5JCZ"
   },
@@ -9685,6 +9637,53 @@
       "WholesalePrice": 0
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/f1-2021/9N6J02VPG635"
+  },
+  {
+    "productTitle": "F1® 23",
+    "productId": "9MTK0S8CQ0QV",
+    "developerName": "Codemasters",
+    "publisherName": "Electronic Arts",
+    "categories": [
+      "Racing & flying",
+      "Family & kids",
+      "Simulation",
+      "Sports"
+    ],
+    "productDescription": "跨世代遊玩：《F1® 23》包括《F1® 23》Xbox Series X|S 版及《F1® 23》Xbox One 版。\r\n\r\n在 2023 FIA Formula One World Championship™ 官方電玩遊戲《EA SPORTS™ F1® 23》中成為「煞」出重圍的飆速快手。\r\n\r\n緊張刺激的「煞車點」故事模式又添新章節，帶來高速演進的劇情和激烈的恩怨情仇。在新的拉斯維加斯和卡達賽道上針鋒相對，並在 F1 World 獲得獎勵與升級。新的紅旗模式新增了真實的戰略元素，35% 比賽距離功能則提供更多的動作場面和刺激比拚。從官方 F1 陣容中的 10 支車隊和 20 名車手中選出你的最愛，同時駕駛最新版的 2023 年比賽車輛。另外，F1® 的終極訓練場地 F2™ 已更新，加入 2023 年最新的賽季內容，包括場上新車和全新車手陣容。在「我的車隊職涯模式」打造你的夢想車隊並贏得比賽、在分割畫面或擴展的跨平台多人模式爭快搶先，並且在新的 Racenet 聯賽和其他玩家多多互動。\r\n\r\n● 煞車點 2：全新篇章即將於《F1® 23》中展開。\r\n\r\n● 真實度更上一層樓：全新的拉斯維加斯和卡達賽道、紅旗模式、35% 比賽距離功能等新內容。\r\n\r\n● F1® World：利用全新的進度系統，完成各種挑戰、競逐各種獎勵，並且在你遊歷 F1® 世界的旅程中取得各式升級。\r\n\r\n此遊戲包含選擇性遊戲內虛擬貨幣購買，虛擬貨幣可用於獲取虛擬遊戲內物品。\r\n\r\n適用條款與限制。詳細資訊請參見 www.ea.com/legal-tc。\r\n《F1® 23》遊戲 - FIA Formula One World Championship 官方授權產品。© 2023 Electronic Arts Inc.、EA、EA SPORTS、EA SPORTS 標誌、Codemasters、 以及 Codemasters 標誌是 Electronic Arts Inc. 的商標。",
+    "images": {
+      "Screenshot": [
+        "https://store-images.s-microsoft.com/image/apps.46015.13807378106780361.79d43283-c28b-4df1-bbed-bdcfd2f6187d.51c4f9da-3354-46ca-8f8f-42dd47d0e0f4",
+        "https://store-images.s-microsoft.com/image/apps.26843.13807378106780361.612d83c2-0cf7-41ae-8f80-cbaf4a3ee3c3.d2ff2667-d9c2-48a4-8b4c-696c1a7b8ff1",
+        "https://store-images.s-microsoft.com/image/apps.2826.13807378106780361.79d43283-c28b-4df1-bbed-bdcfd2f6187d.83b51bc5-4446-4e25-ba25-165243f63456",
+        "https://store-images.s-microsoft.com/image/apps.7829.13807378106780361.612d83c2-0cf7-41ae-8f80-cbaf4a3ee3c3.c6df424a-4266-4111-a6eb-c06cc302ee07",
+        "https://store-images.s-microsoft.com/image/apps.51215.13807378106780361.79d43283-c28b-4df1-bbed-bdcfd2f6187d.4659d885-cf1c-46d0-8f9b-207a15dfcdcc",
+        "https://store-images.s-microsoft.com/image/apps.58473.13807378106780361.79d43283-c28b-4df1-bbed-bdcfd2f6187d.4cde1eff-9e34-44cc-bc87-8c66f9919c71"
+      ],
+      "Poster": [
+        "https://store-images.s-microsoft.com/image/apps.59851.13807378106780361.8a115783-cbb5-4535-8490-7cd4bfae3e22.3b8029b5-5051-41b5-929f-0aa95482cb28"
+      ],
+      "BoxArt": [
+        "https://store-images.s-microsoft.com/image/apps.12182.13807378106780361.8a115783-cbb5-4535-8490-7cd4bfae3e22.50b77362-9fa8-4fcf-93a3-c5f07f5e96d6"
+      ],
+      "SuperHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.22259.13807378106780361.8a115783-cbb5-4535-8490-7cd4bfae3e22.eeacf49a-6673-41bf-aaaa-1094a296bb23"
+      ],
+      "TitledHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.51950.13807378106780361.8a115783-cbb5-4535-8490-7cd4bfae3e22.b1e29b3b-2892-4c0b-b585-7fee4d878884"
+      ],
+      "FeaturePromotionalSquareArt": [
+        "https://store-images.s-microsoft.com/image/apps.46383.13807378106780361.8a115783-cbb5-4535-8490-7cd4bfae3e22.08580c8e-290b-4ab3-b68b-b984b66acf73"
+      ]
+    },
+    "releaseDate": "2023-06-15",
+    "userRating": 0.74,
+    "pricing": {
+      "currencyCode": "HKD",
+      "ListPrice": 549,
+      "MSRP": 549,
+      "WholesalePrice": 384.3
+    },
+    "storePage": "https://www.xbox.com/zh-hk/games/store/f1-23/9MTK0S8CQ0QV"
   },
   {
     "productTitle": "F1® 車隊經理 2023",
@@ -9964,9 +9963,9 @@
     "userRating": 0.92,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 38.5,
+      "ListPrice": 154,
       "MSRP": 154,
-      "WholesalePrice": 26.95
+      "WholesalePrice": 107.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/fallout-4/C3KLDKZBHNCZ"
   },
@@ -10126,9 +10125,9 @@
     "userRating": 0.78,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 59.47,
+      "ListPrice": 396.5,
       "MSRP": 396.5,
-      "WholesalePrice": 41.63
+      "WholesalePrice": 277.55
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/far-cry-5/BR7X7MVBBQKM"
   },
@@ -10463,11 +10462,75 @@
     "userRating": 0.86,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 194,
+      "ListPrice": 77.6,
       "MSRP": 194,
-      "WholesalePrice": 135.8
+      "WholesalePrice": 54.32
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/figment-2-creed-valley/9NZWW8K1KX6S"
+  },
+  {
+    "productTitle": "Figment: Journey Into the Mind",
+    "productId": "BS0P7HLFPPP0",
+    "developerName": "Bedtime Digital Games",
+    "publisherName": "Bedtime Digital Games",
+    "categories": [
+      "Action & adventure",
+      "Music"
+    ],
+    "productDescription": "起源於人類內心深處的音樂動作冒險歡迎來到 Figment 異想世界。一個詭譎又超現實的世界；一個充滿我們內心深處想法、慾望及回憶的地方，由我們在腦中聽到的諸多聲音佔據。  「內心」多年來都保持平靜。但事情發生了變化。新的想法開始浮現，塑造了無論到何處都會散播恐懼的惡夢生物。唯一的希望就是脾氣暴躁的 Dusty，他是「內心」先前的勇氣之聲，現在必須找回過去的自己，也要幫助「內心」面對恐懼。  加入 Dusty 和他向來樂觀的伙伴 Piper，一起踏上探索內心世界各個層面的冒險旅程，解決各種謎題來整頓內心秩序、擊退惡夢並找回遺失的勇氣吧！",
+    "images": {
+      "Screenshot": [
+        "https://store-images.s-microsoft.com/image/apps.51182.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.244bb915-f014-44a5-a1fd-ec08cd1e424c",
+        "https://store-images.s-microsoft.com/image/apps.51182.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.244bb915-f014-44a5-a1fd-ec08cd1e424c",
+        "https://store-images.s-microsoft.com/image/apps.58340.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.c5d9ea0f-b8c0-4c72-9760-0f25956bedae",
+        "https://store-images.s-microsoft.com/image/apps.58340.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.c5d9ea0f-b8c0-4c72-9760-0f25956bedae",
+        "https://store-images.s-microsoft.com/image/apps.14628.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.52407f9f-f3eb-4198-a809-97d958571528",
+        "https://store-images.s-microsoft.com/image/apps.14628.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.52407f9f-f3eb-4198-a809-97d958571528",
+        "https://store-images.s-microsoft.com/image/apps.56736.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.7649976e-3106-4ae9-9af8-76ed64652468",
+        "https://store-images.s-microsoft.com/image/apps.56736.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.7649976e-3106-4ae9-9af8-76ed64652468",
+        "https://store-images.s-microsoft.com/image/apps.15091.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.011ef842-65da-437c-8ad7-a14ffa5339d4",
+        "https://store-images.s-microsoft.com/image/apps.15091.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.011ef842-65da-437c-8ad7-a14ffa5339d4",
+        "https://store-images.s-microsoft.com/image/apps.44570.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.d5c4fb9d-3785-40a5-a730-c76d4ebbbfed",
+        "https://store-images.s-microsoft.com/image/apps.44570.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.d5c4fb9d-3785-40a5-a730-c76d4ebbbfed",
+        "https://store-images.s-microsoft.com/image/apps.23401.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.5149e6c0-604b-4460-8865-8e37c25941fc",
+        "https://store-images.s-microsoft.com/image/apps.23401.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.5149e6c0-604b-4460-8865-8e37c25941fc",
+        "https://store-images.s-microsoft.com/image/apps.61927.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.fdb1bc31-b82f-4b8e-ba94-5fd2202b8978",
+        "https://store-images.s-microsoft.com/image/apps.61927.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.fdb1bc31-b82f-4b8e-ba94-5fd2202b8978"
+      ],
+      "Hero": [
+        "https://store-images.s-microsoft.com/image/apps.27614.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.5d66757b-32e8-45d2-a68c-4a67c07975c5"
+      ],
+      "Logo": [
+        "https://store-images.s-microsoft.com/image/apps.24627.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.b3dc333e-3a17-4388-8259-807ff20e5a45"
+      ],
+      "Poster": [
+        "https://store-images.s-microsoft.com/image/apps.30373.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.788f24d9-534d-456c-94b2-5646e54e6fb7"
+      ],
+      "BoxArt": [
+        "https://store-images.s-microsoft.com/image/apps.21865.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.a2d1789a-fe31-41ac-a8dc-451335a5464a"
+      ],
+      "SuperHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.40146.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.d5e3ece8-5a87-4c25-9865-fa9204bf1fdc"
+      ],
+      "BrandedKeyArt": [
+        "https://store-images.s-microsoft.com/image/apps.41077.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.89fc6191-d128-45db-8f1e-c7ea35340c8c"
+      ],
+      "TitledHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.57072.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.c0670b0b-60fb-4e5a-96e8-da09304275c8"
+      ],
+      "FeaturePromotionalSquareArt": [
+        "https://store-images.s-microsoft.com/image/apps.15867.69486693469012885.88f5a3fe-4612-4ba3-97cd-7004863b32a2.843aa8f9-e89a-467f-8727-5e6fe4b56888"
+      ]
+    },
+    "releaseDate": "2022-11-16",
+    "userRating": 0.76,
+    "pricing": {
+      "currencyCode": "HKD",
+      "ListPrice": 23.1,
+      "MSRP": 154,
+      "WholesalePrice": 16.17
+    },
+    "storePage": "https://www.xbox.com/zh-hk/games/store/figment-journey-into-the-mind/BS0P7HLFPPP0"
   },
   {
     "productTitle": "Firewatch",
@@ -10660,9 +10723,9 @@
     "userRating": 0.86,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 154,
+      "ListPrice": 53.9,
       "MSRP": 154,
-      "WholesalePrice": 107.8
+      "WholesalePrice": 37.73
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/forager/9MV2S7Q5PHSW"
   },
@@ -10905,9 +10968,9 @@
     "userRating": 0.86,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 154,
+      "ListPrice": 107.8,
       "MSRP": 154,
-      "WholesalePrice": 107.8
+      "WholesalePrice": 75.46
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/frog-detective-the-entire-mystery/9N0M3GVB0KNN"
   },
@@ -10969,9 +11032,9 @@
     "userRating": 0.66,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 95,
+      "ListPrice": 63.65,
       "MSRP": 95,
-      "WholesalePrice": 66.5
+      "WholesalePrice": 44.55
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/from-space/9PLK75782446"
   },
@@ -11157,61 +11220,6 @@
       "WholesalePrice": 107.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/gang-beasts/BPQZT43FWD49"
-  },
-  {
-    "productTitle": "花園物語",
-    "productId": "9PP09MJRH2XD",
-    "developerName": "Picogram",
-    "publisherName": "Rose City Games, Kowloon Nights",
-    "categories": [
-      "Action & adventure",
-      "Role playing",
-      "Simulation"
-    ],
-    "productDescription": "你將擔任新的靈樹島守護者，團結破碎的社區。穿梭生氣盎然的島嶼、對抗入侵的腐敗怪、鼓舞島上的居民，並重建你的家園。\r\n\r\n在這過程中，你並不孤單，水果朋友們隨時等著伸出援手！\r\n\r\n康果是靈樹島上最年輕的葡萄，如今成為了一名守護者，必須履行恢復島嶼的職責。這對於剛離開藤蔓的小葡萄而言，似乎是個過於沉重的負擔……不少居民很懷疑小葡萄能否勝任這樣的職責。\r\n\r\n幸好康果的身邊還有接骨木長老、林蛙與富士等好朋友的協助！有了他們的幫助，你就能對抗危險的腐敗怪，並找到辦法，鼓舞其他居民協助你一起努力。\r\n\r\n靈樹島是你的家，你的努力會改變家園，讓它更美好！\r\n\r\n保護你的朋友、收集寶貴的材料，並團結每座村莊的水果、菌類與青蛙，一同抵禦威脅家園的腐敗怪，修復社區關係與建築。\r\n\r\n引導康果努力恢復島嶼，並贏得社區居民的信任。你幫他們解決問題，他們也會以幫助回報你！\r\n\r\n雖然有很多恢復工作必須完成，但別忘了花點時間欣賞這個鬱鬱蔥蔥的世界，以及你辛勤付出的成果。\r\n\r\n享受島上悅耳又難忘的音樂，在靈樹島舒適且迷人的氛圍下放鬆自我，培育花園與圖書館，並認識各式各樣的有趣角色。",
-    "images": {
-      "Screenshot": [
-        "https://store-images.s-microsoft.com/image/apps.49786.14334501706636147.97df104f-715b-4347-b111-98fa1cbd5f7c.7fc01647-3671-40d3-9ff0-32ec36a65c43",
-        "https://store-images.s-microsoft.com/image/apps.49786.14334501706636147.97df104f-715b-4347-b111-98fa1cbd5f7c.7fc01647-3671-40d3-9ff0-32ec36a65c43",
-        "https://store-images.s-microsoft.com/image/apps.49828.14334501706636147.97df104f-715b-4347-b111-98fa1cbd5f7c.769d5e5b-a763-47a3-b35e-d00a5506c516",
-        "https://store-images.s-microsoft.com/image/apps.49828.14334501706636147.97df104f-715b-4347-b111-98fa1cbd5f7c.769d5e5b-a763-47a3-b35e-d00a5506c516",
-        "https://store-images.s-microsoft.com/image/apps.43968.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.822e8403-54fa-4e4e-a385-db90efb6c436",
-        "https://store-images.s-microsoft.com/image/apps.43968.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.822e8403-54fa-4e4e-a385-db90efb6c436",
-        "https://store-images.s-microsoft.com/image/apps.60423.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.33729b7d-2a40-47e6-99e9-6a542a063c0b",
-        "https://store-images.s-microsoft.com/image/apps.60423.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.33729b7d-2a40-47e6-99e9-6a542a063c0b",
-        "https://store-images.s-microsoft.com/image/apps.15654.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.67d505ae-8410-42a7-8a30-1239fc0f4a69",
-        "https://store-images.s-microsoft.com/image/apps.15654.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.67d505ae-8410-42a7-8a30-1239fc0f4a69",
-        "https://store-images.s-microsoft.com/image/apps.38331.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.2289c157-170c-45d1-816e-ebe0ab899475",
-        "https://store-images.s-microsoft.com/image/apps.38331.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.2289c157-170c-45d1-816e-ebe0ab899475"
-      ],
-      "Poster": [
-        "https://store-images.s-microsoft.com/image/apps.5247.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.43ec55db-f269-4c11-8c76-993965805828"
-      ],
-      "BoxArt": [
-        "https://store-images.s-microsoft.com/image/apps.34173.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.24fc5719-18d8-41e9-91e1-bbdc242dfbf7"
-      ],
-      "Logo": [
-        "https://store-images.s-microsoft.com/image/apps.42631.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.1089b02c-0b97-42ef-8ed8-ae927d27fb1c"
-      ],
-      "SuperHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.12946.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.ec126748-c1ba-4e5d-ab02-90568d7df034"
-      ],
-      "TitledHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.12946.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.ec126748-c1ba-4e5d-ab02-90568d7df034"
-      ],
-      "BrandedKeyArt": [
-        "https://store-images.s-microsoft.com/image/apps.30441.14334501706636147.85047352-ea88-47e1-a202-0a89030f066e.21c6b0bd-63ef-4a31-8886-285487b16942"
-      ]
-    },
-    "releaseDate": "2022-07-12",
-    "userRating": 0.66,
-    "pricing": {
-      "currencyCode": "HKD",
-      "ListPrice": 154,
-      "MSRP": 154,
-      "WholesalePrice": 107.8
-    },
-    "storePage": "https://www.xbox.com/zh-hk/games/store//9PP09MJRH2XD"
   },
   {
     "productTitle": "Gears 5 年度遊戲版",
@@ -11883,9 +11891,9 @@
     "userRating": 0.62,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 50.82,
+      "ListPrice": 154,
       "MSRP": 154,
-      "WholesalePrice": 35.57
+      "WholesalePrice": 107.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/golf-with-your-friends/9N14G09PWG74"
   },
@@ -11984,7 +11992,7 @@
       ]
     },
     "releaseDate": "2022-12-13",
-    "userRating": 0.88,
+    "userRating": 0.9,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 134,
@@ -12499,7 +12507,7 @@
       ]
     },
     "releaseDate": "2021-10-05",
-    "userRating": 0.68,
+    "userRating": 0.6,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 319,
@@ -12551,9 +12559,9 @@
     "userRating": 0.9,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 234,
+      "ListPrice": 23.4,
       "MSRP": 234,
-      "WholesalePrice": 163.8
+      "WholesalePrice": 16.38
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/hellblade-senua-s-sacrifice/C4Z7QM8FSXM2"
   },
@@ -12743,48 +12751,48 @@
     "productDescription": "進入終極殺手的世界。\r\n\r\n成為特務 47\r\n穿上西裝，準備展開一場諜對諜的冒險，超過 20 個地點讓您實測所有殺手技能。\r\n\r\n千變萬化的玩法\r\n超致命的武器任君挑選。解鎖新裝備，在可玩性極高的任務中拿出真本事。\r\n\r\n殺手世界\r\n在生意盎然的世界中遊走，其中充滿耐人尋味的角色和暗藏殺意的機會。\r\n\r\nHITMAN FREELANCER\r\n這種新模式結合 rogue-like 元素和深度戰略規劃，提供百玩不厭的無限遊戲體驗，讓您隨心所欲暢玩。\r\n\r\n《HITMAN：殺手世界》將《HITMAN》、《HITMAN 2》和《HITMAN 3》集大成於一身，包括主要戰役、契約模式、晉級、隱密目標街機和特色即時內容。",
     "images": {
       "Poster": [
-        "https://store-images.s-microsoft.com/image/apps.46241.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.22bae141-a400-44a8-b4fa-9836c6e260e5"
+        "https://store-images.s-microsoft.com/image/apps.46241.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.c97b8246-0e8a-4ed2-84ff-342558c8e49b"
       ],
       "BrandedKeyArt": [
-        "https://store-images.s-microsoft.com/image/apps.63523.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.ffc98be1-11bf-432e-8940-f6098e10016a"
+        "https://store-images.s-microsoft.com/image/apps.63523.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.2ff6db44-e6d7-4527-8661-0f353abae752"
       ],
       "Screenshot": [
-        "https://store-images.s-microsoft.com/image/apps.32722.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.1c65fa09-21b7-432c-94a3-382d0570abf6",
-        "https://store-images.s-microsoft.com/image/apps.32722.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.1c65fa09-21b7-432c-94a3-382d0570abf6",
-        "https://store-images.s-microsoft.com/image/apps.12645.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.4e292b1a-3cf0-4e3a-88a1-b24beca7dbf9",
-        "https://store-images.s-microsoft.com/image/apps.12645.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.4e292b1a-3cf0-4e3a-88a1-b24beca7dbf9",
-        "https://store-images.s-microsoft.com/image/apps.64074.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.c7edd426-800e-4b7b-8f02-dad9ad7fbd94",
-        "https://store-images.s-microsoft.com/image/apps.64074.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.c7edd426-800e-4b7b-8f02-dad9ad7fbd94",
-        "https://store-images.s-microsoft.com/image/apps.58622.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.f5915d39-c9b2-428e-adc3-f8d9c2bf4ae0",
-        "https://store-images.s-microsoft.com/image/apps.58622.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.f5915d39-c9b2-428e-adc3-f8d9c2bf4ae0",
-        "https://store-images.s-microsoft.com/image/apps.11610.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.5b6b7ce2-9c1a-4d92-83f4-31887ba39699",
-        "https://store-images.s-microsoft.com/image/apps.11610.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.5b6b7ce2-9c1a-4d92-83f4-31887ba39699",
-        "https://store-images.s-microsoft.com/image/apps.14550.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.c1a8cbbe-c7d0-40f3-a643-2f4620a29189",
-        "https://store-images.s-microsoft.com/image/apps.14550.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.c1a8cbbe-c7d0-40f3-a643-2f4620a29189",
-        "https://store-images.s-microsoft.com/image/apps.36569.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.05b10976-3fd3-4753-a271-4ecf516f22a3",
-        "https://store-images.s-microsoft.com/image/apps.36569.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.05b10976-3fd3-4753-a271-4ecf516f22a3",
-        "https://store-images.s-microsoft.com/image/apps.30960.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.22fccc09-cd00-4e53-ac81-72b81659ebf2",
-        "https://store-images.s-microsoft.com/image/apps.30960.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.22fccc09-cd00-4e53-ac81-72b81659ebf2",
-        "https://store-images.s-microsoft.com/image/apps.15468.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.3552cada-ea23-4832-8b3c-bd37472b427e",
-        "https://store-images.s-microsoft.com/image/apps.15468.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.3552cada-ea23-4832-8b3c-bd37472b427e",
-        "https://store-images.s-microsoft.com/image/apps.5709.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.b9ac1c04-ecbe-43f0-935a-cf2cbc65c9ef",
-        "https://store-images.s-microsoft.com/image/apps.5709.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.b9ac1c04-ecbe-43f0-935a-cf2cbc65c9ef",
+        "https://store-images.s-microsoft.com/image/apps.32722.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.57cc99b1-f842-4f49-a955-63e1d076c9dc",
+        "https://store-images.s-microsoft.com/image/apps.32722.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.57cc99b1-f842-4f49-a955-63e1d076c9dc",
+        "https://store-images.s-microsoft.com/image/apps.12645.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.921b02da-14a6-477a-a55d-6f8ebd2b212a",
+        "https://store-images.s-microsoft.com/image/apps.12645.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.921b02da-14a6-477a-a55d-6f8ebd2b212a",
+        "https://store-images.s-microsoft.com/image/apps.64074.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.f1070f40-6650-443b-8b16-2389e87dce4e",
+        "https://store-images.s-microsoft.com/image/apps.64074.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.f1070f40-6650-443b-8b16-2389e87dce4e",
+        "https://store-images.s-microsoft.com/image/apps.58622.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.b26f3e03-ba45-4250-bbb0-07e177cebb10",
+        "https://store-images.s-microsoft.com/image/apps.58622.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.b26f3e03-ba45-4250-bbb0-07e177cebb10",
+        "https://store-images.s-microsoft.com/image/apps.11610.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.46e6dae2-3da8-4432-bad5-97c78f30f471",
+        "https://store-images.s-microsoft.com/image/apps.11610.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.46e6dae2-3da8-4432-bad5-97c78f30f471",
+        "https://store-images.s-microsoft.com/image/apps.14550.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.2ec570c8-6728-4f4b-8f30-013948ec6ce1",
+        "https://store-images.s-microsoft.com/image/apps.14550.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.2ec570c8-6728-4f4b-8f30-013948ec6ce1",
+        "https://store-images.s-microsoft.com/image/apps.36569.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.df754279-b065-406b-b50e-fe80e529ca96",
+        "https://store-images.s-microsoft.com/image/apps.36569.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.df754279-b065-406b-b50e-fe80e529ca96",
+        "https://store-images.s-microsoft.com/image/apps.30960.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.4d632504-a92c-4868-8230-c6a440ca3b18",
+        "https://store-images.s-microsoft.com/image/apps.30960.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.4d632504-a92c-4868-8230-c6a440ca3b18",
+        "https://store-images.s-microsoft.com/image/apps.15468.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.8799e67e-93ac-4416-99ff-530ea8067532",
+        "https://store-images.s-microsoft.com/image/apps.15468.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.8799e67e-93ac-4416-99ff-530ea8067532",
+        "https://store-images.s-microsoft.com/image/apps.5709.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.2dbc60cb-c1f8-479f-9346-6795da5a6f30",
+        "https://store-images.s-microsoft.com/image/apps.5709.14144194933273826.3ced5741-3e78-4437-9d89-92e9ac9b74fc.2dbc60cb-c1f8-479f-9346-6795da5a6f30",
         "https://store-images.s-microsoft.com/image/apps.20341.13747708785346246.39f53998-8525-42e3-914f-e3272dac038c.63f2c058-8def-4e10-ac83-2a4d1f4f56eb",
         "https://store-images.s-microsoft.com/image/apps.20341.13747708785346246.39f53998-8525-42e3-914f-e3272dac038c.63f2c058-8def-4e10-ac83-2a4d1f4f56eb",
         "https://store-images.s-microsoft.com/image/apps.1817.13747708785346246.39f53998-8525-42e3-914f-e3272dac038c.dc290aaf-ea19-4ec7-9f86-2539062cc285",
         "https://store-images.s-microsoft.com/image/apps.1817.13747708785346246.39f53998-8525-42e3-914f-e3272dac038c.dc290aaf-ea19-4ec7-9f86-2539062cc285"
       ],
       "FeaturePromotionalSquareArt": [
-        "https://store-images.s-microsoft.com/image/apps.1440.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.3baf3815-333b-42ef-9a6e-a5d5e4b5e728"
+        "https://store-images.s-microsoft.com/image/apps.1440.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.1e0615d7-3e65-4448-9a59-8a86f1d526bb"
       ],
       "BoxArt": [
-        "https://store-images.s-microsoft.com/image/apps.40462.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.f9c8a755-68ee-4e26-a6fb-6ee2420656c0"
+        "https://store-images.s-microsoft.com/image/apps.40462.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.709afa0b-116f-4d4b-9a78-6582168a2187"
       ],
       "TitledHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.34458.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.a4a6fbe7-a5c7-4392-9b99-217824b0e154"
+        "https://store-images.s-microsoft.com/image/apps.34458.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.56085837-d95e-4556-a4da-0370b7a430fa"
       ],
       "SuperHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.24317.13747708785346246.26b7a239-7aa3-4075-aceb-3fe6324cd11b.66f73e49-163f-443e-bd7c-0d3fcdb6f16a"
+        "https://store-images.s-microsoft.com/image/apps.24317.14144194933273826.47bc1d76-887c-4be0-b7d4-f9a4ca29408b.bff73676-2e33-4877-86f4-b0773f878ed1"
       ]
     },
     "releaseDate": "2022-01-20",
@@ -12957,9 +12965,9 @@
     "userRating": 0.62,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 104.7,
+      "ListPrice": 698,
       "MSRP": 698,
-      "WholesalePrice": 73.29
+      "WholesalePrice": 488.6
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/hot-wheels-unleashed-game-of-the-year-edition/9P825CZVX852"
   },
@@ -13008,9 +13016,9 @@
     "userRating": 0.62,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 104.7,
+      "ListPrice": 698,
       "MSRP": 698,
-      "WholesalePrice": 73.29
+      "WholesalePrice": 488.6
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/hot-wheels-unleashed-game-of-the-year-edition-xbox-series-x-s/9NGZ7PN3W8DX"
   },
@@ -13059,9 +13067,9 @@
     "userRating": 0.82,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 50.7,
+      "ListPrice": 169,
       "MSRP": 169,
-      "WholesalePrice": 35.49
+      "WholesalePrice": 118.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/house-flipper/9NBFGKQLMV33"
   },
@@ -13175,9 +13183,9 @@
     "userRating": 0.56,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 219.76,
+      "ListPrice": 328,
       "MSRP": 328,
-      "WholesalePrice": 153.83
+      "WholesalePrice": 229.6
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/humankind/9MZ01WJM4MK1"
   },
@@ -13503,9 +13511,9 @@
     "userRating": 0.94,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 125,
+      "ListPrice": 31.25,
       "MSRP": 125,
-      "WholesalePrice": 87.5
+      "WholesalePrice": 21.87
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/inside/C17GQF31D617"
   },
@@ -14158,9 +14166,9 @@
     "userRating": 0.86,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 66,
+      "ListPrice": 16.5,
       "MSRP": 66,
-      "WholesalePrice": 46.2
+      "WholesalePrice": 11.55
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/limbo/BTQMHK78ZPF9"
   },
@@ -14802,7 +14810,7 @@
       ]
     },
     "releaseDate": "2021-05-27",
-    "userRating": 0.64,
+    "userRating": 0.66,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 234,
@@ -14855,9 +14863,9 @@
     "userRating": 0.76,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 274,
+      "ListPrice": 191.8,
       "MSRP": 274,
-      "WholesalePrice": 191.8
+      "WholesalePrice": 134.26
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/medieval-dynasty/9PDDP6ML6XHF"
   },
@@ -14908,9 +14916,9 @@
     "userRating": 0.78,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 234,
+      "ListPrice": 163.8,
       "MSRP": 234,
-      "WholesalePrice": 163.8
+      "WholesalePrice": 114.66
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/medieval-dynasty-xbox-one/9N2PS831S84N"
   },
@@ -15314,9 +15322,9 @@
     "userRating": 0.7,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 89,
+      "ListPrice": 66.75,
       "MSRP": 89,
-      "WholesalePrice": 62.3
+      "WholesalePrice": 46.72
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/mineko-s-night-market/9NBPNW2JQNCD"
   },
@@ -15579,7 +15587,7 @@
       ]
     },
     "releaseDate": "2023-01-19",
-    "userRating": 0.74,
+    "userRating": 0.72,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 308,
@@ -15758,59 +15766,6 @@
     "storePage": "https://www.xbox.com/zh-hk/games/store/mortal-kombat-11/BTC0L0BW6LWC"
   },
   {
-    "productTitle": "MotoGP™22",
-    "productId": "9P6N58X27150",
-    "developerName": "Milestone S.r.l.",
-    "publisherName": "Milestone S.r.l.",
-    "categories": [
-      "Racing & flying",
-      "Simulation",
-      "Sports"
-    ],
-    "productDescription": "引擎發動：展開最身歷其境且真實的 MotoGP™ 遊戲體驗。 \r\n\r\nMotoGP™ 的完整世界\r\n在 MotoGP™ 和其他所有級別中探索 2022 年賽季的所有內容。\r\n超過 120 名車手、20 條以上的官方賽道和官方錦標賽的所有精彩看頭都在等著您。\r\n如果您想回到過去，還有超過 70 名歷屆冠軍能讓您重溫 MotoGP™ 歷史上的頂尖表現。\r\n\r\nNINE SEASON 2009\r\n重溫 MotoGP™ 史上最驚心動魄的一場錦標賽！\r\n2009 年賽季的每一場大獎賽都有一個章節，總計 17 個章節即將展開！您可以化身為正值生涯巔峰的 Rossi、Lorenzo、Stoner 和 Pedrosa 等傳奇車手。在每一集中您將面臨不同的挑戰，親身體驗世界錦標賽的經典時刻。\r\n\r\n為強化所有遊戲內容，每個章節的開頭都有超過 50 分鐘的真實影像，由非凡的 Mark Neale 親自解說及執導。\r\n\r\n冠軍的產地\r\n進入 MotoGP™ ACADEMY 來展現您的冠軍實力：透過新的遊戲挑戰，您將學習所有交易技巧，成為每條賽道上速度最快的車手。\r\n\r\n在新的教學中透過簡短的遊戲賽事突飛猛進，成為您致力成為的車手。\r\n\r\n享受最真實的遊戲體驗並自訂賽事\r\n深入迄今最真實且身歷其境的 MotoGP™ 體驗！\r\n從改變英雄面貌到重新設計官方維修站造型，每個細節都獲得了前所未有的關注！\r\n在 MotoGP™ 電玩遊戲中打造您的世界，騎出更鮮明的個人風格。您可以運用 5 種圖像編輯器來自訂遊戲的各種外觀，從塗裝到騎手賽車裝任您改造。\r\n\r\n透過經理生涯規劃通往成功的道路！\r\n建立自己的車隊或加入官方車隊。選擇您的工作人員並為您的摩托車開發改良引擎、車架、空氣動力和電子系統：全面掌控您的遊戲體驗！\r\n\r\n在 Moto2™ 與 Moto3™ 中建立新人車隊：僱用車隊經理、技術總監和車手來達成新目標。\r\n\r\n全新多人遊戲模式\r\n您將能夠在本系列遊戲中首次以分割畫面模式挑戰您的好友。千萬別錯過這個機會！\r\n如果這樣還不夠，不妨盡情享受跨世代多人遊戲*模式提供的超棒線上挑戰！\r\n\r\n*跨世代多人遊戲可在同一家族的主機上使用。\"\r\n",
-    "images": {
-      "Poster": [
-        "https://store-images.s-microsoft.com/image/apps.52215.14616445086878693.b5e88527-6d84-46b3-aedb-b4ca1a01a63e.75e5e82d-659b-400f-8651-2f7618a3987d"
-      ],
-      "BoxArt": [
-        "https://store-images.s-microsoft.com/image/apps.38272.14616445086878693.b5e88527-6d84-46b3-aedb-b4ca1a01a63e.303843a3-9ef9-4014-8dbb-c89f6584b086"
-      ],
-      "SuperHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.15559.14616445086878693.b5e88527-6d84-46b3-aedb-b4ca1a01a63e.b31f234a-d4e9-4e75-9c39-592ef3632d31"
-      ],
-      "BrandedKeyArt": [
-        "https://store-images.s-microsoft.com/image/apps.54587.14616445086878693.b5e88527-6d84-46b3-aedb-b4ca1a01a63e.7a990d44-ac1c-4fcf-af56-e5ffec6bd27d"
-      ],
-      "TitledHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.38264.14616445086878693.b5e88527-6d84-46b3-aedb-b4ca1a01a63e.3ebf8c5d-9bdb-4656-af47-f898c1c40959"
-      ],
-      "FeaturePromotionalSquareArt": [
-        "https://store-images.s-microsoft.com/image/apps.30731.14616445086878693.b5e88527-6d84-46b3-aedb-b4ca1a01a63e.2c570e3e-63cf-4dc1-9919-d639697ca06c"
-      ],
-      "Screenshot": [
-        "https://store-images.s-microsoft.com/image/apps.34708.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.bb05cb22-f6c2-4fc0-a61c-32ca30902285",
-        "https://store-images.s-microsoft.com/image/apps.11190.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.1c3a941b-e824-4e98-9fde-5ae339f58461",
-        "https://store-images.s-microsoft.com/image/apps.65258.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.a1da269d-1da4-43bc-a54f-f7c39791693e",
-        "https://store-images.s-microsoft.com/image/apps.51235.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.b388a614-949f-41f8-83af-33d0343137f8",
-        "https://store-images.s-microsoft.com/image/apps.52455.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.d6e73fdd-3b82-4244-af9e-45f0e5a7296a",
-        "https://store-images.s-microsoft.com/image/apps.57613.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.ba55b128-0e4e-4a27-8b3a-3f7cc194c72c",
-        "https://store-images.s-microsoft.com/image/apps.30258.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.06f17647-7c4b-4b7b-baa6-e1ba7f14fb86",
-        "https://store-images.s-microsoft.com/image/apps.40828.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.aec2852e-0b4e-401e-8777-f8717b933f71",
-        "https://store-images.s-microsoft.com/image/apps.62562.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.6be67de0-2d33-465b-836a-2da4a93deba8",
-        "https://store-images.s-microsoft.com/image/apps.21707.14616445086878693.6231044e-2655-438e-a3f4-d657f7c730ec.5e6c3270-5fcb-43a9-b8aa-d7819f39ffb5"
-      ]
-    },
-    "releaseDate": "2022-04-20",
-    "userRating": 0.5,
-    "pricing": {
-      "currencyCode": "HKD",
-      "ListPrice": 46.2,
-      "MSRP": 308,
-      "WholesalePrice": 32.34
-    },
-    "storePage": "https://www.xbox.com/zh-hk/games/store/motogp-22/9P6N58X27150"
-  },
-  {
     "productTitle": "Mount & Blade II: Bannerlord",
     "productId": "9PDHWZ7X3P03",
     "developerName": "TaleWorlds Entertainment",
@@ -15921,9 +15876,9 @@
     "userRating": 0.76,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 39.75,
+      "ListPrice": 159,
       "MSRP": 159,
-      "WholesalePrice": 27.82
+      "WholesalePrice": 111.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/my-time-at-portia/BX1FZX1X4132"
   },
@@ -16128,9 +16083,9 @@
     "userRating": 0.72,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 34.75,
+      "ListPrice": 139,
       "MSRP": 139,
-      "WholesalePrice": 24.32
+      "WholesalePrice": 97.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/neon-abyss/9NC781DK18GN"
   },
@@ -16199,9 +16154,9 @@
     "userRating": 0.86,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 234,
+      "ListPrice": 70.2,
       "MSRP": 234,
-      "WholesalePrice": 163.8
+      "WholesalePrice": 49.14
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/new-super-lucky-s-tale/9MZN3SMXN824"
   },
@@ -16399,9 +16354,9 @@
     "userRating": 0.78,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 167.6,
+      "ListPrice": 419,
       "MSRP": 419,
-      "WholesalePrice": 117.32
+      "WholesalePrice": 293.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/ni-no-kuni-wrath-of-the-white-witch-remastered/9P7SL78VHVMF"
   },
@@ -16704,9 +16659,9 @@
     "userRating": 0.92,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 19.8,
+      "ListPrice": 99,
       "MSRP": 99,
-      "WholesalePrice": 13.86
+      "WholesalePrice": 69.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/oblivion/C5K89TFLSV19"
   },
@@ -17068,9 +17023,9 @@
     "userRating": 0.38,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 232.5,
+      "ListPrice": 310,
       "MSRP": 310,
-      "WholesalePrice": 162.75
+      "WholesalePrice": 217
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/payday-3/9NPZVDCH73SX"
   },
@@ -17450,9 +17405,9 @@
     "userRating": 0.82,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 75.57,
+      "ListPrice": 229,
       "MSRP": 229,
-      "WholesalePrice": 52.89
+      "WholesalePrice": 160.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/phoenix-wright-ace-attorney-trilogy-123/C4R4RB3SB1NN"
   },
@@ -18250,9 +18205,9 @@
     "userRating": 0.58,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 61.8,
+      "ListPrice": 309,
       "MSRP": 309,
-      "WholesalePrice": 43.26
+      "WholesalePrice": 216.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/rage-2/C2DCJ95ZXBMS"
   },
@@ -18490,9 +18445,9 @@
     "userRating": 0.86,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 145.5,
+      "ListPrice": 194,
       "MSRP": 194,
-      "WholesalePrice": 101.85
+      "WholesalePrice": 135.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/ravenlok/9NH88HNTGNDZ"
   },
@@ -18716,9 +18671,9 @@
     "userRating": 0.76,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 92.7,
+      "ListPrice": 309,
       "MSRP": 309,
-      "WholesalePrice": 64.89
+      "WholesalePrice": 216.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/remnant-from-the-ashes/9PBHXGWZTS2N"
   },
@@ -18773,6 +18728,67 @@
     "storePage": "https://www.xbox.com/zh-hk/games/store/research-and-destroy/9NNZJ389GSW2"
   },
   {
+    "productTitle": "RESIDENT EVIL 2",
+    "productId": "BWMH951M3G3P",
+    "developerName": "CAPCOM CO., LTD.",
+    "publisherName": "CAPCOM CO., LTD.",
+    "categories": [
+      "Action & adventure"
+    ],
+    "productDescription": "一切都凌駕於玩家的想像之上。\r\n\r\n一場生化災難於1998年9月襲擊了浣熊市，從殘害倖存者的喪屍地獄中生還吧。\r\n無盡的刺激、引人入勝的故事和無法想像的恐怖正在等候你。\r\n見證系列首屈一指的傑作──《Resident Evil 2》的重生吧。\r\n\r\n別被這場慘劇吞噬。",
+    "images": {
+      "Screenshot": [
+        "https://store-images.s-microsoft.com/image/apps.11870.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.14a27d01-0ed9-4317-b4f2-2a4f823ebc95",
+        "https://store-images.s-microsoft.com/image/apps.11870.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.14a27d01-0ed9-4317-b4f2-2a4f823ebc95",
+        "https://store-images.s-microsoft.com/image/apps.21895.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.1528c5e5-1f34-4aeb-a306-6fcfea2d5357",
+        "https://store-images.s-microsoft.com/image/apps.21895.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.1528c5e5-1f34-4aeb-a306-6fcfea2d5357",
+        "https://store-images.s-microsoft.com/image/apps.60887.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.3fc51f60-d8da-447f-b993-daacfc666e38",
+        "https://store-images.s-microsoft.com/image/apps.60887.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.3fc51f60-d8da-447f-b993-daacfc666e38",
+        "https://store-images.s-microsoft.com/image/apps.5684.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.3a6915e0-8be9-4444-8155-98198ac87ebe",
+        "https://store-images.s-microsoft.com/image/apps.5684.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.3a6915e0-8be9-4444-8155-98198ac87ebe",
+        "https://store-images.s-microsoft.com/image/apps.7705.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.fe612f7d-4a9a-4d44-b05f-cc8610770a54",
+        "https://store-images.s-microsoft.com/image/apps.7705.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.fe612f7d-4a9a-4d44-b05f-cc8610770a54",
+        "https://store-images.s-microsoft.com/image/apps.3775.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.4e46572c-5b21-4700-9f1a-59f3beedcbfa",
+        "https://store-images.s-microsoft.com/image/apps.3775.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.4e46572c-5b21-4700-9f1a-59f3beedcbfa",
+        "https://store-images.s-microsoft.com/image/apps.28352.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.53d6ec26-7ea0-46a8-b55f-9a1e3822a48b",
+        "https://store-images.s-microsoft.com/image/apps.28352.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.53d6ec26-7ea0-46a8-b55f-9a1e3822a48b",
+        "https://store-images.s-microsoft.com/image/apps.41282.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.b0a71d21-db30-4ab3-9758-06219571ab5d",
+        "https://store-images.s-microsoft.com/image/apps.41282.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.b0a71d21-db30-4ab3-9758-06219571ab5d",
+        "https://store-images.s-microsoft.com/image/apps.30072.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.e368d553-9b4c-4b08-acbe-161791967ccb",
+        "https://store-images.s-microsoft.com/image/apps.30072.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.e368d553-9b4c-4b08-acbe-161791967ccb",
+        "https://store-images.s-microsoft.com/image/apps.20906.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.6c5a8d07-453c-4f36-8a95-2dfd054e1f71",
+        "https://store-images.s-microsoft.com/image/apps.20906.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.6c5a8d07-453c-4f36-8a95-2dfd054e1f71"
+      ],
+      "BrandedKeyArt": [
+        "https://store-images.s-microsoft.com/image/apps.27622.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.71515657-7b26-49f5-904f-9b1831a2ab57"
+      ],
+      "TitledHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.62536.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.0b3e17c7-563a-4309-a82b-4db3dd72eaa5"
+      ],
+      "Poster": [
+        "https://store-images.s-microsoft.com/image/apps.21306.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.9571c621-ed00-4a22-92e1-4aed8da6a3a1"
+      ],
+      "SuperHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.63174.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.7fab338a-38d7-4acb-9b8b-a824ee9fd15c"
+      ],
+      "BoxArt": [
+        "https://store-images.s-microsoft.com/image/apps.4664.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.dcf5e611-b7eb-4a68-9626-ce18b5eea53c"
+      ],
+      "FeaturePromotionalSquareArt": [
+        "https://store-images.s-microsoft.com/image/apps.19758.71571739681700792.c61fa2d7-3d69-4edf-8e51-accc41d47823.fd11c682-236e-440a-8922-fe9f213a279a"
+      ]
+    },
+    "releaseDate": "2019-01-25",
+    "userRating": 0.94,
+    "pricing": {
+      "currencyCode": "HKD",
+      "ListPrice": 312,
+      "MSRP": 312,
+      "WholesalePrice": 218.4
+    },
+    "storePage": "https://www.xbox.com/zh-hk/games/store/resident-evil-2/BWMH951M3G3P"
+  },
+  {
     "productTitle": "Return to Monkey Island",
     "productId": "9PC4R8N1N2T6",
     "developerName": "Terrible Toybox",
@@ -18824,9 +18840,9 @@
     "userRating": 0.86,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 116.4,
+      "ListPrice": 194,
       "MSRP": 194,
-      "WholesalePrice": 81.48
+      "WholesalePrice": 135.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/return-to-monkey-island/9PC4R8N1N2T6"
   },
@@ -19102,9 +19118,9 @@
     "userRating": 0.7,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 52.79,
+      "ListPrice": 175.99,
       "MSRP": 175.99,
-      "WholesalePrice": 36.96
+      "WholesalePrice": 123.2
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/scorn/9NM3TNRPQXLR"
   },
@@ -19985,7 +20001,7 @@
       ]
     },
     "releaseDate": "2022-05-26",
-    "userRating": 0.64,
+    "userRating": 0.66,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 464,
@@ -20332,9 +20348,9 @@
     "userRating": 0.72,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 114,
+      "ListPrice": 45.6,
       "MSRP": 114,
-      "WholesalePrice": 79.8
+      "WholesalePrice": 31.92
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/spacelines-from-the-far-out/9N23WV1HGLTQ"
   },
@@ -20514,9 +20530,9 @@
     "userRating": 0.88,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 129,
+      "ListPrice": 32.25,
       "MSRP": 129,
-      "WholesalePrice": 90.3
+      "WholesalePrice": 22.57
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/spiritfarer-farewell/9NG5L58FD3X5"
   },
@@ -20725,7 +20741,7 @@
       ]
     },
     "releaseDate": "2016-12-14",
-    "userRating": 0.94,
+    "userRating": 0.92,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 99,
@@ -20965,9 +20981,9 @@
     "userRating": 0.84,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 239,
+      "ListPrice": 179.25,
       "MSRP": 239,
-      "WholesalePrice": 167.3
+      "WholesalePrice": 125.47
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/steamworld-build/9MVRDC1BW8TQ"
   },
@@ -21229,6 +21245,51 @@
       "WholesalePrice": 244.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/super-mega-baseball-3/9NP6V9LFVJ87"
+  },
+  {
+    "productTitle": "Super Mega Baseball™ 4",
+    "productId": "9N93V5M3TG4N",
+    "developerName": "Metalhead Software Inc.",
+    "publisherName": "Electronic Arts",
+    "categories": [
+      "Sports",
+      "Family & kids",
+      "Simulation"
+    ],
+    "productDescription": "《Super Mega Baseball™ 4》利用 Xbox 智慧分發，讓玩家可以取得遊戲的 Xbox One 和 Xbox Series X|S 版本。**\r\n\r\n拿起您的手套和球棒，是時候與史上最佳的棒球球員一起上場了，《Super Mega Baseball™ 4》現已推出。這是傳奇球員們展現精湛技術的場域。包括弗拉迪米爾·葛雷諾、強尼·戴蒙、奧茲·史密斯和傑森·吉昂比等，超過 200 名粉絲最愛的前職業球星已經準備好踏入球場，加入廣受喜愛的超級聯賽全明星陣容。這個系列的風格以街機為靈感，提供身臨其境的遊戲深度，讓玩家能在其中進行打擊、投球，最終滑回本壘。《Super Mega Baseball 4》保留了熟悉的經營和「錦標賽」等遊戲模式，加上了全新功能讓棒球變得更加偉大。此外，最新版本的遊戲在視覺上進行了系列作最大型的升級，具有令人大開眼界的全新視覺效果，從動畫、角色到球場，還包括休息室台到更衣間的清晰音效升級。參照了玩家社群的意見，《Super Mega Baseball 4》即將推出一系列粉絲要求的新功能，讓遊戲更有深度，包括球隊默契、隨機選秀和 6 個全新球場等新增系統。為了讓玩家社群更大又更緊密，跨平臺多人模式已改進為包括跨世代主機配對的棒球錦標賽和線上聯賽，讓玩家可以在更多遊戲系統中與好友享受棒球的樂趣。\r\n\r\n*適用條款與限制。詳細資訊請參見 ea.com/zh-tw/legal。\r\n**遊戲進度不可在平臺間轉移。",
+    "images": {
+      "Screenshot": [
+        "https://store-images.s-microsoft.com/image/apps.38133.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.de93c386-9d47-4934-875b-cf9a678a7369",
+        "https://store-images.s-microsoft.com/image/apps.33412.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.0eff3c24-cbf9-494f-a40d-0b3b4d532806",
+        "https://store-images.s-microsoft.com/image/apps.53065.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.f7877168-9052-4da2-817b-d5f7d1d86119",
+        "https://store-images.s-microsoft.com/image/apps.39305.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.366c4dff-a063-4a0d-bc47-609f5171735a",
+        "https://store-images.s-microsoft.com/image/apps.47232.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.9754e723-0da0-4d6b-b217-46a1ccd5036a"
+      ],
+      "Poster": [
+        "https://store-images.s-microsoft.com/image/apps.4835.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.b74a1118-97aa-48a5-b035-eab636046943"
+      ],
+      "BoxArt": [
+        "https://store-images.s-microsoft.com/image/apps.2073.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.1582bfc5-a415-48ff-884e-66e4ef00023b"
+      ],
+      "SuperHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.29694.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.027efba6-1355-4658-a124-ba599eb09d9f"
+      ],
+      "TitledHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.9717.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.fb86e8d4-fc65-4b88-874c-aa82ee40a2ce"
+      ],
+      "FeaturePromotionalSquareArt": [
+        "https://store-images.s-microsoft.com/image/apps.180.13544775904823019.d91cad4e-f16d-46e7-a43e-871f1ef1a3d4.e041ac3f-db54-40ad-91e4-8f70a45e7175"
+      ]
+    },
+    "releaseDate": "2023-06-02",
+    "userRating": 0.6,
+    "pricing": {
+      "currencyCode": "HKD",
+      "ListPrice": 399,
+      "MSRP": 399,
+      "WholesalePrice": 279.3
+    },
+    "storePage": "https://www.xbox.com/zh-hk/games/store/super-mega-baseball-4/9N93V5M3TG4N"
   },
   {
     "productTitle": "Superliminal",
@@ -21735,9 +21796,9 @@
     "userRating": 0.7,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 114,
+      "ListPrice": 28.5,
       "MSRP": 114,
-      "WholesalePrice": 79.8
+      "WholesalePrice": 19.95
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/the-big-con/9P01R01ZJ9BX"
   },
@@ -21800,9 +21861,9 @@
     "userRating": 0.62,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 114,
+      "ListPrice": 74.1,
       "MSRP": 114,
-      "WholesalePrice": 79.8
+      "WholesalePrice": 51.87
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/the-bookwalker-thief-of-tales/9NXGGWMFM446"
   },
@@ -22550,9 +22611,9 @@
     "userRating": 0.96,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 135,
+      "ListPrice": 40.5,
       "MSRP": 135,
-      "WholesalePrice": 94.5
+      "WholesalePrice": 28.35
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/the-walking-dead-the-complete-season/C0VQBXFNZ1Q0"
   },
@@ -22810,10 +22871,10 @@
     "productDescription": "每個精妙的發明背後，總會有一個不可思議的故事。來自《Fable》系列製作團隊成員的作品，《Tin Hearts》是一款沉浸式的解謎遊戲，以愛與妥協的恢弘故事為背景的遊戲。\r\n\r\n帶領一群頑皮的錫製玩具兵，穿越充滿玩具的神奇世界，利用各種異想天開且具創造力的新玩意兒進行彈跳、射擊和滑翔，將他們送到目的地。在50多道扭曲時間的關卡中，完成士兵路線謎題，為你的玩具們構築行進的新通道，並破解越來越難解的謎題，揭曉維多利亞時代的天才發明家 Albert J. Butterworth的情感故事。\r\n\r\n破解一連串的謎題：操控玩具大砲肅清前方道路，利用彈跳床蹦上新高度，並操縱汽球充氣機幫助士兵們抵達目的地！\r\n\r\n揭開故事：探索橫跨數個世代與時空的深刻情感故事，巧妙地融入這充滿謎題的世界。線索無處不在，找出線索即可獲得一則令人心動的故事做為獎勵，故事由三幕優美的有聲動畫組成。\r\n\r\n探索神奇的世界：就像玩具店裡的孩童一般，置身於奇幻且時空交錯的維多利亞時代，感受充滿懷舊的溫暖與魅力。\r\n\r\n發揮你的想像力：解鎖操控物件的能力，操控世界上的各種物件，包括積木、鼓和玩具火車等等。在建造通往出口的通道時，將各種物體以有趣的方式連接起來，讓無畏的錫製玩具兵得以通過，並逐步揭開他們過往的秘密。\r\n\r\n操縱時間：暫停、快轉和倒退時間，可以改變行動的結果並完成越來越複雜的謎題。\r\n\r\n聆聽令人回味的配樂：好整以暇地解開輕鬆的謎題，同時浸淫在得獎作曲家Matthew Chastney的動人配樂中；Matthew Chastney的作品包括《JOKER》、《Chernobyl》和《Bridgerton》。\r\n\r\n沉浸式虛擬實境：體驗此遊戲的虛擬實境版本，此版本從頭到尾專為虛擬實境平台獨家設計製作，玩家可完全沉浸在《Tin Hearts》的美麗世界中。直接控制、觸控及感受遊戲的機制，\r\n或者移近身體觀看令人驚豔的環境與迷人的玩具。\r\n\r\n《Fable》開發者的話：《Tin Hearts》由才華洋溢的Lionhead Studios開發團隊的前成員製作，備受讚譽的《Fable》系列即為其力作。",
     "images": {
       "BoxArt": [
-        "https://store-images.s-microsoft.com/image/apps.28449.13863817766354324.31fbd4df-5450-45db-94dd-c8f0f57bca5f.889ce7e6-3879-4270-9a12-ab89cae8445f"
+        "https://store-images.s-microsoft.com/image/apps.33152.13863817766354324.d0b7376f-2625-4548-96cd-a79d6e667bd2.686d3362-0881-4f9a-b324-e93919de575e"
       ],
       "Poster": [
-        "https://store-images.s-microsoft.com/image/apps.18325.13863817766354324.31fbd4df-5450-45db-94dd-c8f0f57bca5f.85af569e-4da1-478e-8440-24ccbc4b331f"
+        "https://store-images.s-microsoft.com/image/apps.39565.13863817766354324.d0b7376f-2625-4548-96cd-a79d6e667bd2.b23547dd-089f-4119-867a-be52c9054dee"
       ],
       "Screenshot": [
         "https://store-images.s-microsoft.com/image/apps.24808.13863817766354324.f8d7eb60-245b-49aa-a3f9-7f253e368205.da53c442-5208-49f6-85d1-61c8d0ac834a",
@@ -22838,16 +22899,16 @@
         "https://store-images.s-microsoft.com/image/apps.39330.13863817766354324.d0b7376f-2625-4548-96cd-a79d6e667bd2.23a9e776-0415-466b-ad4b-0b1ee35f8c72"
       ],
       "SuperHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.60925.13863817766354324.db34ba9c-708e-4d09-a87c-ed074a63e53f.e02c969c-2d8d-4c0e-ab38-e304aaed389f"
+        "https://store-images.s-microsoft.com/image/apps.34165.13863817766354324.d0b7376f-2625-4548-96cd-a79d6e667bd2.6b747e27-4d66-4901-b64c-6f376edd1781"
       ],
       "BrandedKeyArt": [
-        "https://store-images.s-microsoft.com/image/apps.40157.13863817766354324.db34ba9c-708e-4d09-a87c-ed074a63e53f.d0bc14b5-b52d-4247-9d1f-81ce46608acb"
+        "https://store-images.s-microsoft.com/image/apps.43347.13863817766354324.d0b7376f-2625-4548-96cd-a79d6e667bd2.51677a8d-4ab3-48eb-b5d6-2220ca6863f3"
       ],
       "TitledHeroArt": [
-        "https://store-images.s-microsoft.com/image/apps.47622.13863817766354324.31fbd4df-5450-45db-94dd-c8f0f57bca5f.d6e6e354-1db3-4265-a588-437380ca980b"
+        "https://store-images.s-microsoft.com/image/apps.18127.13863817766354324.d0b7376f-2625-4548-96cd-a79d6e667bd2.4cbeb43e-a4e4-4cbf-9d4d-f358460e9ed2"
       ],
       "FeaturePromotionalSquareArt": [
-        "https://store-images.s-microsoft.com/image/apps.37203.13863817766354324.31fbd4df-5450-45db-94dd-c8f0f57bca5f.51fe4c24-f5c0-4552-a766-3f1f3a8f4d0f"
+        "https://store-images.s-microsoft.com/image/apps.10909.13863817766354324.d0b7376f-2625-4548-96cd-a79d6e667bd2.542dd214-0bc2-4dcf-92e6-06845ea803f7"
       ]
     },
     "releaseDate": "2023-05-16",
@@ -23052,9 +23113,9 @@
     "userRating": 0.76,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 70.2,
+      "ListPrice": 351,
       "MSRP": 351,
-      "WholesalePrice": 49.14
+      "WholesalePrice": 245.7
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/tom-clancy-s-ghost-recon-wildlands-standard-edition/C2N9CS4FS1QR"
   },
@@ -23164,9 +23225,9 @@
     "userRating": 0.88,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 107.8,
+      "ListPrice": 154,
       "MSRP": 154,
-      "WholesalePrice": 75.46
+      "WholesalePrice": 107.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/totally-accurate-battle-simulator/9PC4RWP34M2D"
   },
@@ -23420,6 +23481,65 @@
     "storePage": "https://www.xbox.com/zh-hk/games/store/turbo-golf-racing-game-preview/9N6781PMXC02"
   },
   {
+    "productTitle": "Turnip Boy Robs a Bank",
+    "productId": "9NDT1MS39FXZ",
+    "developerName": "Snoozy Kazoo",
+    "publisherName": "Graffiti Games",
+    "categories": [
+      "Action & adventure"
+    ],
+    "productDescription": "Turnip Boy is ready to commit more felonies in this comedic action-adventure game with roguelite elements. This time the career criminal is teaming up with the fearsome Pickled Gang to plan and execute the weirdest heist of all time! Shake down hostages, steal precious valuables, and explore the deep, dark depths and history of the Botanical Bank. \r\n\r\nTo pull off the perfect heist, you’ll need to purchase an array of dangerous and wacky tools from the dark web, including a diamond pickaxe, C4, and a radio jammer. However, bank robbing isn’t easy, so be prepared for intense shootouts with security guards, the police, elite swat teams and more.",
+    "images": {
+      "BrandedKeyArt": [
+        "https://store-images.s-microsoft.com/image/apps.44004.13607962435826086.cd471fe6-3dd8-4df9-a01c-9b94312c7c3b.389d821a-8899-416c-8e38-5dc302ecba1f"
+      ],
+      "TitledHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.25222.13607962435826086.cd471fe6-3dd8-4df9-a01c-9b94312c7c3b.14e2a5b5-d88e-437a-a7df-8634a7324746"
+      ],
+      "SuperHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.28102.13607962435826086.cd471fe6-3dd8-4df9-a01c-9b94312c7c3b.25be410e-d5d2-4d50-bae9-b18cc718ff8b"
+      ],
+      "FeaturePromotionalSquareArt": [
+        "https://store-images.s-microsoft.com/image/apps.36601.13607962435826086.cd471fe6-3dd8-4df9-a01c-9b94312c7c3b.6c218e2f-b8b3-422d-af15-5b67b830ad11"
+      ],
+      "Poster": [
+        "https://store-images.s-microsoft.com/image/apps.13818.13607962435826086.cd471fe6-3dd8-4df9-a01c-9b94312c7c3b.d29ae9a9-0509-4b05-b1be-d18eea5a6d72"
+      ],
+      "Logo": [
+        "https://store-images.s-microsoft.com/image/apps.61861.13607962435826086.cd471fe6-3dd8-4df9-a01c-9b94312c7c3b.a2e6940c-8bb9-4485-a593-392e842e9469"
+      ],
+      "BoxArt": [
+        "https://store-images.s-microsoft.com/image/apps.35008.13607962435826086.cd471fe6-3dd8-4df9-a01c-9b94312c7c3b.de4afa21-6d5d-4f8d-a486-9dbd8ce67615"
+      ],
+      "Screenshot": [
+        "https://store-images.s-microsoft.com/image/apps.34973.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.e68f8f42-8bce-48a6-9490-761dc90a3ef3",
+        "https://store-images.s-microsoft.com/image/apps.34973.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.e68f8f42-8bce-48a6-9490-761dc90a3ef3",
+        "https://store-images.s-microsoft.com/image/apps.30253.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.1d239e0f-71b4-422f-8ca6-1dd86f59407b",
+        "https://store-images.s-microsoft.com/image/apps.30253.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.1d239e0f-71b4-422f-8ca6-1dd86f59407b",
+        "https://store-images.s-microsoft.com/image/apps.6160.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.55b11b6b-811c-412e-826a-1f48d2719177",
+        "https://store-images.s-microsoft.com/image/apps.6160.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.55b11b6b-811c-412e-826a-1f48d2719177",
+        "https://store-images.s-microsoft.com/image/apps.37427.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.13cafcaf-ca47-4880-bb57-6f28bbce5ddb",
+        "https://store-images.s-microsoft.com/image/apps.21790.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.b16d3ef4-f35d-4f9c-829b-314343880b9a",
+        "https://store-images.s-microsoft.com/image/apps.17577.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.9a74e793-1c46-482b-8969-7a957ab4dba8",
+        "https://store-images.s-microsoft.com/image/apps.37427.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.13cafcaf-ca47-4880-bb57-6f28bbce5ddb",
+        "https://store-images.s-microsoft.com/image/apps.38251.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.d73a624e-9b62-41eb-bff1-36b9812b55e6",
+        "https://store-images.s-microsoft.com/image/apps.17577.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.9a74e793-1c46-482b-8969-7a957ab4dba8",
+        "https://store-images.s-microsoft.com/image/apps.33815.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.e6356bf9-67b3-483c-b74a-78093863b5bf",
+        "https://store-images.s-microsoft.com/image/apps.38251.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.d73a624e-9b62-41eb-bff1-36b9812b55e6",
+        "https://store-images.s-microsoft.com/image/apps.33815.13607962435826086.5f798a33-7fc4-4945-b04e-fc0e38328c1e.e6356bf9-67b3-483c-b74a-78093863b5bf"
+      ]
+    },
+    "releaseDate": "2024-01-18",
+    "userRating": 0,
+    "pricing": {
+      "currencyCode": "HKD",
+      "ListPrice": 91.2,
+      "MSRP": 114,
+      "WholesalePrice": 63.84
+    },
+    "storePage": "https://www.xbox.com/zh-hk/games/store/turnip-boy-robs-a-bank/9NDT1MS39FXZ"
+  },
+  {
     "productTitle": "Unpacking",
     "productId": "9NH5HN11FG4M",
     "developerName": " Witch Beam",
@@ -23469,9 +23589,9 @@
     "userRating": 0.9,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 77,
+      "ListPrice": 154,
       "MSRP": 154,
-      "WholesalePrice": 53.9
+      "WholesalePrice": 107.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/unpacking/9NH5HN11FG4M"
   },
@@ -23808,9 +23928,9 @@
     "productDescription": "Fight, survive and live to tell the tales.\r\n\r\nA century has passed since the fall of the Edoran Empire at the hands of an unprecedented plague that swept the nation. Now, the land is rife with mercenary work, banditry and thievery, with honor having become an almost entirely forgotten virtue.\r\n\r\nNow, prepare to lead a group of unscrupulous characters in a massive open world where combat, death and a thirst for riches will dictate your day to day life. You are not the hero of this story, destined to usher in a new era of peace. Your goal is solely to survive and thrive in this harsh and hostile world, by any means necessary…\r\n\r\nOnly the bravest and most ambitious can hope to see their story written in the Wartales!\r\n\r\n\r\nDevelop your group of mercenaries.\r\n\r\nLead a group of mercenaries on a dangerous quest for riches and recognition in a medieval world ravaged by destitution and greed, recruiting new companions with numerous unique specializations, skill sets, weapon preferences and personalities.\r\n\r\nCustomize your group's skills, equipment, and appearance with an intuitive RPG progression and crafting system, while developing your camp with luxuries, tools, and equipment to help your team endure and recover from the hardships each day brings.\r\n\r\n\r\nExplore a vibrant and mysterious world.\r\n\r\nJourney through a vast, open world in your quest for notoriety, wealth, and recognition, immersing yourself in lively villages and remnants of a bygone era. Explore abandoned mines, tombs, and camps as you piece together the history of this harsh world.\r\n\r\n\r\nProsper and write your story.\r\n\r\nCollect bounties and take on contracts. From protecting the innocent from petty thieves to defeating the land's most notorious figures, there's no such thing as a profit too small to take.\r\n\r\nOvercome your foes with a tactical turn-based combat system that rewards careful planning and strategic thinking, selecting the best combination of characters, equipment, and tactics to succeed in each unique battle.\r\n\r\n\r\n4 player cooperative.\r\n\r\nTraverse the vast open world of Wartales as a band of up to 4 players, planning tactics and devising a strategy before confronting some of the many hostile inhabitants that roam these mysterious lands and defeating them as a team.\r\n\r\nShare money, loot, resources, and end the day with a delicious meal around a roaring campfire with your loyal companions, building camaraderie and forging unbreakable bonds that will help you overcome any obstacle.",
     "images": {
       "Logo": [
-        "https://store-images.s-microsoft.com/image/apps.44911.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.9788853c-bfa9-484e-b00e-367f1fdf2d3e",
-        "https://store-images.s-microsoft.com/image/apps.435.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.005e0ec4-ed27-4afe-876b-5162c8084eaf",
-        "https://store-images.s-microsoft.com/image/apps.24649.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.ea264bd0-b64b-4b5c-bd65-ff105a0c2b34"
+        "https://store-images.s-microsoft.com/image/apps.41667.14440655325358467.1eec354a-75c3-4191-9e5f-a63d24496e1a.49692cc8-5cdb-4588-825f-d6ca9096e5a0",
+        "https://store-images.s-microsoft.com/image/apps.62118.14440655325358467.1eec354a-75c3-4191-9e5f-a63d24496e1a.50d2d518-455a-4b1e-ab42-2c96abc96f13",
+        "https://store-images.s-microsoft.com/image/apps.61095.14440655325358467.1eec354a-75c3-4191-9e5f-a63d24496e1a.46b5dc82-a216-42db-b5f0-46f1978fef4f"
       ],
       "BoxArt": [
         "https://store-images.s-microsoft.com/image/apps.57743.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.80dc7cd7-d40f-455f-9676-f0cf0946ae88"
@@ -24022,6 +24142,57 @@
     "storePage": "https://www.xbox.com/zh-hk/games/store/watch-dogs-2/BSXLFN5QQZSC"
   },
   {
+    "productTitle": "We Happy Few",
+    "productId": "BPR2TBS2KMQJ",
+    "developerName": "Compulsion Games Inc",
+    "publisherName": "Gearbox Publishing",
+    "categories": [
+      "Action & adventure"
+    ],
+    "productDescription": "We Happy Few 讲述的是一群富有勇气又有一丝小坏的人们的传奇，他们正试着逃离惠灵顿威尔士单调古板的生活。在这座毒品泛滥、充满着复古未来主义风格的架空1960年代英国城市，你必须与其他居民打成一片，尽管这些居民对于不遵守他们古怪规矩的人们不太友好。\r\n\r\n\r\n\r\n1960年代反乌托邦式英格兰\r\n\r\n在一个复古未来风格的1960年代，你将体验一座曾经饱受战火摧残，如今又被一群妄想快乐的人们重建的城市。在惠灵顿威尔士，所有东西看上去都很快乐，包括道路，居民和无处不在的电视明星—杰克大叔！然而，这个美丽的世界却处在崩溃的边缘。你将探索这个世界的历史，并发现为什么它会变得如此虚伪的快乐。\r\n\r\n\r\n\r\n怀疑与喜悦\r\n\r\nWe Happy Few描述的是生活在并逃离一个程序生成世界的故事，在那儿你必须学会如何掩人耳目。如果你的行为过于出格，或者你没有服用“Joy”（一种当地的快乐药丸），那么周围的人会变得多疑而且会迅速将你揪出来！并且是强行的。如果你想存活的足够长直到逃脱，你需要学会如何伪装、潜行和肉搏。\r\n\r\n\r\n\r\n一个成年人的故事\r\n\r\nWe Happy Few里的角色并不是典型的电视游戏英雄。他们是有缺陷的，并且没那么显著的英雄主义，他们的世界已经彻底被创伤扭曲。每个角色的故事情节都会根据他们周围的世界发生的事件作出反应，而且他们置身其中。我们的故事绝对儿童不宜，并且故事里还装点着黑色幽默、希望和一丝丝救赎。\r\n\r\n\r\n\r\n游戏特色\r\n\r\n在We Happy Few中，你将体验到：\r\n\r\n一个程序生成的世界，这意味着所有人的经历都是独一无二的，\r\n\r\n新手和骨灰级玩家都将面对的一系列困难，\r\n\r\n永久死亡，如果你想满足你的自虐需求，\r\n\r\n三种模式：沙盒模式、故事模式和Wellie模式，\r\n\r\n独特的配音，以及\r\n\r\n一部全语音、如电影画面般的第一人称故事。\r\n\r\n\r\n\r\n而且你可以用你自己的方式进行游戏：\r\n\r\n满足你的基本需求（饥饿、口渴和睡眠）以存活下去，\r\n\r\n学习如何与其他社会成员互动，并且选择潜行、伪装或肉搏，\r\n\r\n遭遇许多发生在游戏中的独特事件，\r\n\r\n遵守独特的本地习惯，包括学习表现得像他人一样“正常”，并且服用你的“Joy”，\r\n\r\n收集配方，捡拾物品并制作出许多武器、工具和装置，\r\n\r\n赤手空拳的战斗或者使用你创造出的疯狂武器，\r\n\r\n提防陷阱，或者学着如何让它们变得对自己有利。",
+    "images": {
+      "Screenshot": [
+        "https://store-images.s-microsoft.com/image/apps.57241.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.ae50d2c7-afff-45d6-9cc4-7cd9dfe07859",
+        "https://store-images.s-microsoft.com/image/apps.53977.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.945e92cd-01fb-4548-b132-caac85428b72",
+        "https://store-images.s-microsoft.com/image/apps.10707.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.a85a3c7e-2fe5-47f4-86e5-a18634cdfc1a",
+        "https://store-images.s-microsoft.com/image/apps.19752.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.beefe87a-8c7f-4558-9bf7-124ee3793976",
+        "https://store-images.s-microsoft.com/image/apps.15994.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.155ccdea-5e7e-49dd-b687-d9f36da10583",
+        "https://store-images.s-microsoft.com/image/apps.28208.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.989e0e81-8484-42a9-a85b-cc81b61c4a38",
+        "https://store-images.s-microsoft.com/image/apps.14949.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.02bb60ee-d0ed-4724-a9b4-09007202b0ca",
+        "https://store-images.s-microsoft.com/image/apps.17881.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.a7fa9b7c-e7f0-4b69-8048-c4bb2c6236a9",
+        "https://store-images.s-microsoft.com/image/apps.62179.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.78784343-8de3-424d-b83d-eafb1fe6d3d4",
+        "https://store-images.s-microsoft.com/image/apps.27293.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.4f96d123-5fcb-46ec-bdfd-d67bb8b0b989"
+      ],
+      "BrandedKeyArt": [
+        "https://store-images.s-microsoft.com/image/apps.2730.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.a99caa39-57db-41ba-8dbe-20d00b235388"
+      ],
+      "TitledHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.59045.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.b4ab4862-9e46-4820-8da2-8b979a5d6ca7"
+      ],
+      "Poster": [
+        "https://store-images.s-microsoft.com/image/apps.45930.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.53d53de7-c096-4ac7-9439-aaf384d8417f"
+      ],
+      "SuperHeroArt": [
+        "https://store-images.s-microsoft.com/image/apps.40691.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.2ed3053f-3072-44f6-86d2-37c6c2f45087"
+      ],
+      "BoxArt": [
+        "https://store-images.s-microsoft.com/image/apps.1885.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.cd8ecf4a-cb0c-4a01-a9ab-66cdeecbb1d5"
+      ],
+      "FeaturePromotionalSquareArt": [
+        "https://store-images.s-microsoft.com/image/apps.7162.68143759676978415.617fe4d2-4978-4b4d-9e04-cba4cf86d432.b42b87c7-f170-4cef-9381-f76a79a3879a"
+      ]
+    },
+    "releaseDate": "2018-08-10",
+    "userRating": 0.82,
+    "pricing": {
+      "currencyCode": "HKD",
+      "ListPrice": 429,
+      "MSRP": 429,
+      "WholesalePrice": 300.3
+    },
+    "storePage": "https://www.xbox.com/zh-hk/games/store/we-happy-few/BPR2TBS2KMQJ"
+  },
+  {
     "productTitle": "While the Iron's Hot",
     "productId": "9P2F4C1XFZJ4",
     "developerName": "Bontemps Games",
@@ -24065,7 +24236,7 @@
       ]
     },
     "releaseDate": "2023-11-09",
-    "userRating": 0.58,
+    "userRating": 0.6,
     "pricing": {
       "currencyCode": "HKD",
       "ListPrice": 149,
@@ -24176,9 +24347,9 @@
     "userRating": 0.88,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 38.5,
+      "ListPrice": 154,
       "MSRP": 154,
-      "WholesalePrice": 26.95
+      "WholesalePrice": 107.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/wolfenstein-the-new-order/BT9FFLG51VVG"
   },
@@ -24221,9 +24392,9 @@
     "userRating": 0.88,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 29.75,
+      "ListPrice": 119,
       "MSRP": 119,
-      "WholesalePrice": 20.82
+      "WholesalePrice": 83.3
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/wolfenstein-the-old-blood/BPV4GXTDCNSH"
   },
@@ -24271,9 +24442,9 @@
     "userRating": 0.5,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 46.2,
+      "ListPrice": 154,
       "MSRP": 154,
-      "WholesalePrice": 32.34
+      "WholesalePrice": 107.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/wolfenstein-youngblood/C421ZX7RCG0W"
   },
@@ -24316,9 +24487,9 @@
     "userRating": 0.8,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 47.1,
+      "ListPrice": 314,
       "MSRP": 314,
-      "WholesalePrice": 32.97
+      "WholesalePrice": 219.8
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/wolfenstein-ii-the-new-colossus/C4LLMHFQ1BXQ"
   },
@@ -24362,9 +24533,9 @@
     "userRating": 0.74,
     "pricing": {
       "currencyCode": "HKD",
-      "ListPrice": 309,
+      "ListPrice": 154.5,
       "MSRP": 309,
-      "WholesalePrice": 216.3
+      "WholesalePrice": 108.15
     },
     "storePage": "https://www.xbox.com/zh-hk/games/store/world-war-z-aftermath/9PLCL2VB2SC0"
   },
